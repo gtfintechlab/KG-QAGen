@@ -1,0 +1,1210 @@
+
+EX-10.1
+2
+d687881dex101.htm
+EX-10.1
+
+EX-10.1
+
+Exhibit 10.1 
+Execution Version  CREDIT AGREEMENT
+ Dated as of January 7, 2019 
+among  COHERUS BIOSCIENCES, INC.,
+ as the Borrower,  CERTAIN
+DOMESTIC SUBSIDIARIES OF THE BORROWER,  as the Guarantors, 
+HCR COLLATERAL MANAGEMENT, LLC, 
+as the Administrative Agent  and
+ THE LENDERS FROM TIME TO TIME PARTY HERETO 
+
+
+
+
+TABLE OF CONTENTS   
+
+
+
+
+
+
+
+
+
+
+ 
+    
+ 
+  
+Page
+ 
+
+ ARTICLE I DEFINITIONS AND ACCOUNTING TERMS
+  
+ 
+1
+ 
+
+
+
+
+
+ 1.01
+    
+Defined Terms
+  
+ 
+1
+ 
+
+ 1.02
+    
+Other Interpretive Provisions
+  
+ 
+27
+ 
+
+ 1.03
+    
+Accounting Terms
+  
+ 
+28
+ 
+
+ 1.04
+    
+Illegality
+  
+ 
+29
+ 
+
+ 1.05
+    
+Inability to Determine Rates
+  
+ 
+29
+ 
+
+ 1.06
+    
+Times of Day
+  
+ 
+29
+ 
+
+
+
+
+ ARTICLE II THE COMMITMENTS
+  
+ 
+30
+ 
+
+
+
+
+
+ 2.01
+    
+Term Loan Commitments
+  
+ 
+30
+ 
+
+ 2.02
+    
+Borrowings
+  
+ 
+30
+ 
+
+ 2.03
+    
+Prepayments
+  
+ 
+30
+ 
+
+ 2.04
+    
+Repayment of Loans
+  
+ 
+32
+ 
+
+ 2.05
+    
+Interest
+  
+ 
+33
+ 
+
+ 2.06
+    
+Fees
+  
+ 
+33
+ 
+
+ 2.07
+    
+Computation of Interest
+  
+ 
+33
+ 
+
+ 2.08
+    
+Evidence of Debt
+  
+ 
+33
+ 
+
+ 2.09
+    
+Payments Generally
+  
+ 
+34
+ 
+
+ 2.10
+    
+Sharing of Payments by Lenders
+  
+ 
+34
+ 
+
+ 2.11
+    
+Defaulting Lenders
+  
+ 
+35
+ 
+
+ 2.12
+    
+Termination of Term Loan Commitments
+  
+ 
+36
+ 
+
+
+
+
+ ARTICLE III TAXES
+  
+ 
+36
+ 
+
+
+
+
+
+ 3.01
+    
+Taxes
+  
+ 
+36
+ 
+
+ 3.02
+   
+
+ 
+ 
+66
+ 
+
+ 8.03
+    
+Indebtedness
+  
+ 
+67
+ 
+
+ 8.04
+    
+Fundamental Changes
+  
+ 
+70
+ 
+
+ 8.05
+    
+Dispositions
+  
+ 
+70
+ 
+
+ 8.06
+    
+Restricted Payments
+  
+ 
+70
+ 
+
+ 8.07
+    
+Change in Nature of Business
+  
+ 
+71
+ 
+
+ 8.08
+    
+Transactions with Affiliates and Insiders
+  
+ 
+71
+ 
+
+ 8.09
+    
+Burdensome Agreements
+  
+ 
+71
+ 
+  ii 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 8.10
+    
+Use of Proceeds
+  
+ 
+71
+ 
+
+ 8.11
+    
+Prepayment of Other Indebtedness
+  
+ 
+72
+ 
+
+ 8.12
+    
+Organization Documents; Fiscal Year; Legal Name, State of Formation and Form of Entity; Certain Amendments
+  
+ 
+72
+ 
+
+ 8.13
+    
+Ownership of Subsidiaries
+  
+ 
+72
+ 
+
+ 8.14
+    
+Sale Leasebacks
+  
+ 
+73
+ 
+
+ 8.15
+    
+Sanctions; Anti-Corruption Laws
+  
+ 
+73
+ 
+
+ 8.16
+    
+Liquidity
+  
+ 
+73
+ 
+
+ 8.17
+    
+Minimum Consolidated Net Sales
+  
+ 
+73
+ 
+
+
+
+
+ ARTICLE IX EVENTS OF DEFAULT AND REMEDIES
+  
+ 
+73
+ 
+
+
+
+
+
+ 9.01
+    
+Events of Default
+  
+ 
+73
+ 
+
+ 9.02
+    
+Remedies Upon Event of Default
+  
+ 
+76
+ 
+
+ 9.03
+    
+Application of Funds
+  
+ 
+77
+ 
+
+
+
+
+ ARTICLE X ADMINISTRATIVE AGENT
+  
+ 
+78
+ 
+
+
+
+
+
+ 10.01
+    
+Appointment and Authority
+  
+ 
+78
+ 
+
+ 10.02
+    
+Rights as a Lender
+  
+ 
+78
+ 
+
+ 10.03
+    
+Exculpatory Provisions
+  
+ 
+78
+ 
+
+ 10.04
+    
+Reliance by Administrative Agent
+  
+ 
+79
+ 
+
+ 10.05
+    
+Delegation of Duties
+  
+ 
+80
+ 
+
+ 10.06
+    
+Resignation of Administrative Agent
+  
+ 
+80
+ 
+
+ 10.07
+    
+Non-Reliance on Administrative Agent and Other Lenders
+  
+ 
+81
+ 
+
+ 10.08
+    
+Administrative Agent May File Proofs of Claim
+  
+ 
+81
+ 
+
+ 10.09
+    
+Collateral and Guaranty Matters
+  
+ 
+82
+ 
+
+
+
+
+ ARTICLE XI MISCELLANEOUS
+  
+ 
+83
+ 
+
+
+
+
+
+ 11.01
+    
+Amendments, Etc.
+  
+ 
+83
+ 
+
+ 11.02
+    
+Notices and Other Communications; Facsimile Copies
+  
+ 
+84
+ 
+
+ 11.03
+    
+No Waiver; Cumulative Remedies; Enforcement
+  
+ 
+85
+ 
+
+ 11.04
+    
+Expenses; Indemnity; and Damage Waiver
+  
+ 
+86
+ 
+
+ 11.05
+    
+Payments Set Aside
+  
+ 
+87
+ 
+
+ 11.06
+    
+Successors and Assigns
+  
+ 
+88
+ 
+
+ 11.07
+    
+Treatment of Certain Information; Confidentiality
+  
+ 
+90
+ 
+
+ 11.08
+    
+Set-off
+  
+ 
+91
+ 
+
+ 11.09
+
+
+   
+Acknowledgement and Consent to Bail-In of EEA Financial Institutions
+  
+ 
+95
+ 
+
+  iii 
+
+
+
+
+SCHEDULES   
+
+
+
+
+
+
+ 1.01
+    
+Products
+
+ 2.01
+    
+Term Loan Commitments and Applicable Percentages
+
+ 6.10
+    
+Insurance
+
+ 6.13(a)
+    
+Subsidiaries
+
+ 6.13(b)
+    
+Capitalization
+
+ 6.17
+    
+IP Rights
+
+ 6.20(a)
+    
+Locations of Real Property
+
+ 6.20(b)
+    
+Taxpayer and Organizational Identification Numbers
+
+ 6.20(c)
+    
+Changes in Legal Name, State of Organization and Structure
+
+ 6.22
+    
+Material Contracts
+
+ 8.01
+    
+Liens Existing on the Closing Date
+
+ 8.02
+    
+Investments Existing on the Closing Date
+
+ 8.03
+    
+Indebtedness Existing on the Closing Date
+
+ 11.02
+    
+Certain Addresses for Notices
+
+
+
+
+EXHIBITS
+    
+
+
+
+
+
+ A
+    
+Form of Loan Notice
+
+ B
+    
+Form of Term Note
+
+ C
+    
+Form of Joinder Agreement
+
+ D
+    
+Form of Assignment and Assumption
+
+ E
+    
+Form of Compliance Certificate
+  
+  iv 
+
+
+
+
+CREDIT AGREEMENT 
+This CREDIT AGREEMENT is entered into as of January 7, 2019 among COHERUS BIOSCIENCES, INC., a Delaware corporation (the
+Borrower), the Guarantors (defined herein), the Lenders (defined herein) and HCR COLLATERAL MANAGEMENT, LLC, as Administrative Agent. 
+The Borrower has requested that the Lenders make an investment in the Borrower in the form of a term loan facility, and the Lenders are
+willing to do so on the terms and conditions set forth herein.  In consideration of the mutual covenants and agreements herein contained,
+the parties hereto covenant and agree as follows:  ARTICLE I 
+DEFINITIONS AND ACCOUNTING TERMS 
+1.01    Defined Terms. 
+As used in this Agreement, the following terms shall have the meanings set forth below: 
+Acquisition means, with respect to any Person, the acquisition by such Person, in a single transaction or in a series of
+related transactions, of (a) assets of another Person which constitute all or substantially all of the assets of such Person, or of any division, line of business or other business unit of such Person, (b) at least a majority of the Voting
+Stock of another Person, in each case whether or not involving a merger or consolidation with such other Person and whether fo
+
+le,
+permit, lease, license, contract or other instrument, to the extent sufficient to permit any such item to become Collateral, a security interest in such general intangible, permit, lease, license, contract or other instrument shall be automatically
+and simultaneously granted under the applicable Collateral Document and such general intangible, permit, lease, license, contract or other instrument shall no longer constitute Excluded Property and shall be considered Collateral,
+(f) any leasehold interest of any Loan Party in real property, and (g) Deposit Accounts pledged in connection with Liens permitted by Section 8.01(r). 
+Existing Convertible Notes means the 8.2% convertible senior notes due 2022 initially issued by the Borrower pursuant to
+the Existing Convertible Note Purchase Agreement, including the guarantees thereof.  Existing Convertible Note Purchase
+Agreement means that certain Convertible Note Purchase Agreement, dated as of February 29, 2016, among the Borrower, HealthCare Royalty Partners III, L.P., MX II Associates LLC, KMG Capital Partners, LLC and KKR Biosimilar L.P., each
+as an investor, and the guarantors party thereto as amended by that certain Amendment thereto, dated March 25, 2016, as may hereafter be further amended or modified from time to time in accordance with the terms thereof. 
+Exploitation shall mean, with respect to any Product, (a) any and all activities directed to the marketing, promotion,
+distribution, offering for sale, selling, and other commercialization of such Product for the approved use; (b) importing and exporting such Product for sale; and (c) interacting with applicable Governmental Authorities regarding the
+foregoing. When used as a verb, the term Exploit shall mean to engage in Exploitation. 
+  10. 
+
+
+
+
+Extraordinary Receipts means any cash received by or paid to or for the
+account of any Person not in the ordinary course of business, including pension plan reversions, proceeds of insurance (other than proceeds of business interruption insurance to the extent such proceeds constitute compensation for lost earnings),
+condemnation aw
+
+y 1, 2020 and (b) the LIBOR Rate as of such date. 
+Interim Financial Statements means the unaudited consolidated financial statements of the Borrower and its Subsidiaries for
+the fiscal quarter ended September 30, 2018, including balance sheets and statements of income or operations, shareholders equity and cash flows. 
+  14. 
+
+
+
+
+Internal Revenue Code means the United States Internal Revenue Code of
+1986.  Internal Revenue Service means the United States Internal Revenue Service. 
+Investment means, as to any Person, any direct or indirect acquisition or investment by such Person, whether by means of
+(a) the purchase or other acquisition of Equity Interests of another Person, (b) a loan, advance or capital contribution to, Guarantee or assumption of debt of, or purchase or other acquisition of any other debt or equity participation or
+interest in, another Person, including any partnership or joint venture interest in such other Person and any arrangement pursuant to which the investor Guarantees Indebtedness of such other Person, or (c) an Acquisition. For purposes of
+covenant compliance, the amount of any Investment shall be the amount actually invested, without adjustment for subsequent increases or decreases in the value of such Investment. 
+Involuntary Disposition means any loss of, damage to or destruction of, or any condemnation or other taking for public use
+of, any property of any Loan Party or any of its Subsidiaries.  IP Rights means, collectively, all Confidential
+Information, all Copyrights, all Copyright Licenses, all Domain Names, all Governmental Licenses, all applications and requests for Governmental Licenses, all Other Intellectual Property, all Other IP Agreements, all Patents, all Patent Licenses,
+all Proprietary Databases, all Proprietary Software, all Trademarks, all Trademark Licenses, all Trade Secrets, all Websites, all Website Agreements and all Regulatory Approvals. 
+Joinder Agreement means a joinder agreement substantially in the f
+
+er arising and shall be binding upon each Guarantor and its successors and assigns, and each Guarantor irrevocably waives (to the fullest extent permitted by law) any right (including without limitation any such right arising under
+California Civil Code Section 2815) to revoke the guarantee in this Article IV as to future transactions giving rise to any Obligations. 
+ARTICLE V  CONDITIONS PRECEDENT TO
+CLOSING AND BORROWINGS  5.01 Conditions of Initial Borrowing. 
+This Agreement shall become effective upon and the obligation of each Lender to make its portion of the Term Loan to be advanced on the
+Closing Date hereunder is subject to satisfaction of the following conditions precedent:  (a) Loan Documents.
+Receipt by the Administrative Agent of executed counterparts (include by electronic means) of this Agreement and the other Loan Documents, each executed (in a manner reasonably acceptable to the Administrative Agent) by a Responsible Officer of the
+signing Loan Party.  (b) Opinions of Counsel. Receipt by the Administrative Agent a written legal opinion of
+Latham & Watkins LLP, addressed to the Administrative Agent and each Lender as of the Closing Date, dated the Closing Date and in form and substance satisfactory to the Administrative Agent. 
+  41. 
+
+
+
+
+(c) Financial Statements. The Administrative Agent shall have
+received the Audited Financial Statements, the Interim Financial Statements and such other reports, statements and due diligence items as the Administrative Agent or any Lender shall request. 
+(d) No Material Adverse Effect. There shall not have occurred since December 31, 2017 any event or condition that
+has had or could reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect.  (e)
+Litigation. There shall not exist any action, suit, investigation or proceeding pending or threatened in any court or before an arbitrator or Governmental Authority that could reasonably be expected, either individually or in the aggregate,
+to have a Material Adverse Effect.  (f) Organization Documents, Resolutions, Etc. Rec
+
+e Obligations,
+in view of the impracticability and extreme difficulty of ascertaining actual damages and by mutual agreement of the parties as to a reasonable calculation of each Lenders lost profits as a result thereof. Any prepayment premium required by
+Section 2.03(e) and any exit fee required by Section 2.06(b) payable pursuant to the preceding sentence shall be presumed to be the liquidated damages sustained by each Lender as the result of the
+early termination and the Borrower agrees that it is reasonable under the circumstances currently existing. The prepayment premium required by Section 2.03(e) and the exit fee required by
+Section 2.06(b) shall also be payable and any discount on the Term Loan shall be deemed earned in full, in each case, in the event that the Obligations (and/or this Agreement) are satisfied or released by foreclosure
+(whether by power of judicial proceeding), deed in lieu of foreclosure or by any other means. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE BORROWER EXPRESSLY WAIVES THE PROVISIONS OF ANY PRESENT OR FUTURE STATUTE OR LAW THAT PROHIBITS OR MAY
+PROHIBIT THE COLLECTION OF THE FOREGOING 
+  76. 
+
+
+
+
+
+PREPAYMENT PREMIUM, EXIT FEE AND ANY DISCOUNT ON THE TERM LOAN IN CONNECTION WITH ANY SUCH ACCELERATION. The Borrower expressly agrees that (i) the prepayment premium required by
+Section 2.03(e), the exit fee required by Section 2.06(b) and any discount on the Term Loan provided for herein is reasonable and is the product of an arms length transaction between sophisticated business
+people, ably represented by counsel, (ii) the prepayment premium required by Section 2.03(e), the exit fee required by Section 2.06(b) and any discount on the Term Loan shall be payable
+notwithstanding the then prevailing market rates at the time payment is made, (iii) there has been a course of conduct between the Lenders and the Borrower giving specific consideration in this transaction for such agreement to pay the
+prepayment premium required by Section 2.03
+
+principal, interest,
+prepayment premium and exit fees) payable to the Lenders (including fees, charges and disbursements of counsel to the respective Lenders) arising under the Loan Documents and amounts payable under Article III, ratably among them in proportion
+to the respective amounts described in this clause Second payable to them;  Third, to payment of that portion of the Obligations
+constituting accrued and unpaid interest on and prepayment premium and exit fees with respect to the Loans, ratably among the Lenders in proportion to the respective amounts described in this clause Third held by them; 
+Fourth, to payment of that portion of the Obligations constituting accrued and unpaid principal of the Loans, ratably among the Lenders in
+proportion to the respective amounts described in this clause Fourth held by them; and  Last, the balance, if any, after all of the
+Obligations have been paid in full in cash, to the Borrower or as otherwise required by Law. 
+  77. 
+
+
+
+
+ARTICLE X 
+ADMINISTRATIVE AGENT  10.01
+Appointment and Authority.  (a) Each of the Lenders hereby irrevocably appoints HCR Collateral Management, LLC to
+act on its behalf as the Administrative Agent hereunder and under the other Loan Documents and authorizes the Administrative Agent to take such actions on its behalf and to exercise such powers as are delegated to the Administrative Agent by the
+terms hereof or thereof, together with such actions and powers as are incidental thereto. Except for the Borrowers specific rights contained in Section 10.06, the provisions of this Article are solely for the benefit
+of the Administrative Agent and the Lenders, and neither the Borrower nor any other Loan Party shall have rights as a third party beneficiary of any of such provisions. It is understood and agreed that the use of the term agent
+herein or in any other Loan Documents (or any other similar term) with reference to the Administrative Agent is not intended to connote any fiduciary or other implied (or express) obli
+
+uch assignors Loans on the effective date of
+such assignment;  (c) such assignment does not conflict with applicable Laws; and 
+(d) a Lender shall not be required to make any such assignment or delegation if, prior thereto, as a result of a waiver by such
+Lender or otherwise, the circumstances entitling the Borrower to require such assignment and delegation cease to apply. 
+  92. 
+
+
+
+
+11.14 Governing Law; Jurisdiction; Etc. 
+(a) GOVERNING LAW. THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS (EXCEPT, AS TO ANY OTHER LOAN DOCUMENT, AS EXPRESSLY SET
+FORTH THEREIN) AND ANY CLAIMS, CONTROVERSY, DISPUTE OR CAUSE OF ACTION (WHETHER IN CONTRACT OR TORT OR OTHERWISE) BASED UPON, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT (EXCEPT, AS TO ANY OTHER LOAN DOCUMENT, AS
+EXPRESSLY SET FORTH THEREIN) AND THE TRANSACTIONS CONTEMPLATED HEREBY AND THEREBY SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. 
+(b) SUBMISSION TO JURISDICTION. THE BORROWER AND EACH OTHER LOAN PARTY IRREVOCABLY AND UNCONDITIONALLY AGREES THAT IT
+WILL NOT COMMENCE ANY ACTION, LITIGATION OR PROCEEDING OF ANY KIND OR DESCRIPTION, WHETHER IN LAW OR EQUITY, WHETHER IN CONTRACT OR IN TORT OR OTHERWISE, AGAINST THE ADMINISTRATIVE AGENT, ANY LENDER OR ANY RELATED PARTY OF THE FOREGOING IN ANY WAY
+RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS RELATING HERETO OR THERETO, IN ANY OTHER FORUM OTHER THAN THE COURTS OF THE STATE OF NEW YORK AND ANY UNITED STATES DISTRICT COURT IN THE STATE OF NEW YORK, AND ANY APPELLATE
+COURT FROM ANY THEREOF LOCATED IN NEW YORK COUNTY, NEW YORK, AND EACH OF THE PARTIES HERETO IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE JURISDICTION OF SUCH COURTS AND AGREES THAT ALL CLAIMS IN RESPECT OF ANY SUCH ACTION, LITIGATION OR PROCEEDING
+MAY BE HEARD AND DETERMINED IN SUCH NEW YORK STATE COURT OR, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN SUCH FEDERAL COURT. EACH OF THE PARTIES HERETO AGREES THAT A FINAL JUDGMENT IN ANY SUCH ACTION OR PROCEEDING SHALL BE CONCLUSIVE AND
+MAY BE ENFORCED IN OTHER JURISDICTIONS BY SUIT ON THE JUDGMENT OR IN ANY OTHER MANNER PROVIDED BY LAW. NOTHING IN THIS AGREEMENT OR IN ANY OTHER LOAN DOCUMENT SHALL AFFECT ANY RIGHT THAT THE ADMINISTRATIVE AGENT OR ANY LENDER MAY OTHERWISE HAVE TO
+BRING ANY ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT AGAINST THE BORROWER OR ANY OTHER LOAN PARTY OR ITS PROPERTIES IN THE COURTS OF ANY JURISDICTION. 
+(c) WAIVER OF VENUE. THE BORROWER AND EACH OTHER LOAN PARTY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST
+EXTENT PERMITTED BY APPLICABLE LAW, ANY OBJECTION THAT IT MAY NOW OR HEREAFTER HAVE TO THE LAYING OF VENUE OF ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT IN ANY COURT REFERRED TO IN PARAGRAPH
+(B) OF THIS SECTION. EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF SUCH ACTION OR PROCEEDING IN ANY SUCH COURT. 
+(d) SERVICE OF PROCESS. EACH PARTY HERETO IRREVOCABLY CONSENTS TO SERVICE OF PROCESS IN THE MANNER PROVIDED FOR NOTICES IN
+SECTION 11.02. NOTHING IN THIS AGREEMENT WILL AFFECT THE RIGHT OF ANY PARTY HERETO TO SERVE PROCESS IN ANY OTHER MANNER PERMITTED BY APPLICABLE LAW. 
+  93. 
+
+
+
+
+11.15 Waiver of Right to Trial by Jury. 
+EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN
+ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO
+(A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES
+THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION. 
+11.16 Electronic Execution of Assignments and Certain Other Documents. 
+The words execute, execution, signed, signature and words of like import in any Assignment and
+Assumption or in any amendment or other modification hereof (including waivers and consents) shall be deemed to include electronic signatures, the electronic matching of assignment terms and contract formations on electronic platforms approved by
+the Administrative Agent, or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use
+
+ich may be payable to it by any Lender that is an EEA Financial Institution; and (b) the effects of any Bail-In Action on any such
+liability, including, if applicable: (i) a reduction in full or in part or cancellation of any such liability; (ii) a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such EEA Financial
+Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such
+liability under this Agreement or any other Loan Document; or (iii) the variation of the terms of such liability in connection with the exercise of the write-down and conversion powers of any EEA Resolution Authority. 
+[SIGNATURE PAGES FOLLOW] 
+  95. 
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of
+the date first above written.   
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+
+ 
+COHERUS BIOSCIENCES, INC.,a Delaware corporation
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Dennis M. Lanfear
+
+
+ 
+
+ 
+Name: Dennis M. Lanfear
+
+
+ 
+
+ 
+Title: President and Chief Executive Officer
+  
+
+
+
+
+
+
+
+
+
+
+GUARANTORS:
+ 
+
+ 
+COHERUS INTERMEDIATE CORP.,a Delaware corporation
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Dennis M. Lanfear
+
+
+ 
+
+ 
+Name: Dennis M. Lanfear
+
+
+ 
+
+ 
+Title: President and Chief Executive Officer
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+INTEKRIN THERAPEUTICS INC.,a Delaware corporation
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Michael Fleming
+
+
+ 
+
+ 
+Name: Michael Fleming
+
+
+ 
+
+ 
+Title: President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+ 
+
+ 
+HCR COLLATERAL MANAGEMENT, LLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Clarke B. Futch
+
+
+ 
+
+ 
+Name: Clarke B. Futch
+
+
+ 
+
+ 
+Title: Managing Partner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDERS:
+ 
+
+ 
+HEALTHCARE ROYALTY PARTNERS III, L.P.,a Delaware limited partnership
+
+
+
+
+
+
+ 
+
+ 
+By: HealthCare Royalty GP III, LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Clarke B. Futch
+
+
+ 
+
+ 
+Name: Clarke B. Futch
+
+
+ 
+
+ 
+Title: Managing Partner
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+HCRP OVERFLOW FUND, L.P.,a Delaware limited partnership
+
+
+
+
+
+
+ 
+
+ 
+By: HCRP Overflow GP, LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Clarke B. Futch
+
+
+ 
+
+ 
+Name: Clarke B. Futch
+
+
+ 
+
+ 
+Title: Managing Partner
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+HCR MOLAG FUND, L.P.,a Delaware limited partnership
+
+
+
+
+
+
+ 
+
+ 
+By: HCR Molag Fund GP, LLC, its General Partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Clarke B. Futch
+
+
+ 
+
+ 
+Name: Clarke B. Futch
+
+
+ 
+
+ 
+Title: Managing Partner
+
+
+
+
+
+[Schedule of Exceptions] 
+
+
+
+
+EXHIBIT A 
+FORM OF LOAN NOTICE 
+
+
+
+
+EXHIBIT B 
+FORM OF TERM NOTE 
+
+
+
+
+EXHIBIT C 
+FORM OF JOINDER AGREEMENT 
+
+
+
+
+EXHIBIT D 
+FORM OF ASSIGNMENT AND ASSUMPTION 
+
+
+
+
+EXHIBIT E 
+FORM OF COMPLIANCE CERTIFICATE 
+
+
+
+

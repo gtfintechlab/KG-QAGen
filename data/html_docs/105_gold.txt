@@ -1,0 +1,3797 @@
+
+EX-10.1
+4
+tv482440_ex10-1.htm
+EXHIBIT 10.1
+
+
+ 
+Exhibit 10.1
+ 
+
+Execution Version
+ 
+
+ 
+
+ 
+
+ 
+ 
+TERM LOAN AGREEMENT
+ 
+DATED AS OF DECEMBER 29, 2017
+ 
+BETWEEN
+ 
+CINEDIGM
+CORP.,
+ 
+AS
+Borrower,
+ 
+and
+ 
+Bison
+Entertainment and Media Group,
+ 
+AS LENDER
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+TABLE OF CONTENTS
+
+
+
+ 
+ 
+Page
+
+ 
+ 
+ 
+
+ARTICLE I
+DEFINITIONS, INTERPRETATION AND ACCOUNTING TERMS
+1
+
+ 
+ 
+ 
+
+Section 1.1
+Defined Terms
+1
+
+ 
+ 
+ 
+
+Section 1.2
+Accounting Terms and Principles
+20
+
+ 
+ 
+ 
+
+Section 1.3
+Payments
+20
+
+ 
+ 
+ 
+
+Section 1.4
+Interpretation
+20
+
+ 
+ 
+ 
+
+ARTICLE II
+THE LOAN
+21
+
+ 
+ 
+ 
+
+Section 2.1
+Loan and Warrant
+21
+
+ 
+ 
+ 
+
+Section 2.2
+Closing
+21
+
+ 
+ 
+ 
+
+Section 2.3
+Conditions Precedent to Closing
+21
+
+ 
+ 
+ 
+
+Section 2.4
+Repayment of Obligations
+23
+
+ 
+ 
+ 
+
+Section 2.5
+Voluntary Prepayments
+23
+
+ 
+ 
+ 
+
+Section 2.6
+Mandatory Prepayments
+23
+
+ 
+ 
+ 
+
+Section 2.7
+Interest
+23
+
+ 
+ 
+ 
+
+Section 2.8
+Application of Payments
+24
+
+ 
+ 
+ 
+
+Section 2.9
+Payments and Computations
+24
+
+ 
+ 
+ 
+
+Section 2.10
+Taxes
+25
+
+ 
+ 
+ 
+
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES
+27
+
+ 
+ 
+ 
+
+Section 3.1
+Corporate Existence; Compliance with Law
+27
+
+ 
+ 
+ 
+
+Section 3.2
+Power and Authority; No Conflicts; Due Execution, Delivery and Enforceability
+28
+
+ 
+ 
+ 
+
+Section 3.3
+Ownership of Subsidiaries
+28
+
+rs
+40
+
+ 
+ 
+ 
+
+Section 4.22
+Reservation of Common Stock
+40
+
+ 
+ 
+ 
+
+Section 4.23
+Publicity
+40
+
+ 
+ 
+ 
+
+Section 4.24
+USA Patriot Act
+40
+
+ 
+
+ ii
+ 
+
+ 
+TABLE OF CONTENTS
+(CONTINUED)
+ 
+
+
+ 
+ 
+Page
+
+ 
+ 
+ 
+
+ARTICLE V
+NEGATIVE COVENANTS
+40
+
+ 
+ 
+ 
+
+Section 5.1
+Indebtedness
+40
+
+ 
+ 
+ 
+
+Section 5.2
+Liens
+41
+
+ 
+ 
+ 
+
+Section 5.3
+Investments
+42
+
+ 
+ 
+ 
+
+Section 5.4
+Asset Sales; Stock Issuances
+42
+
+ 
+ 
+ 
+
+Section 5.5
+Restricted Payments
+43
+
+ 
+ 
+ 
+
+Section 5.6
+Prepayment of Indebtedness
+43
+
+ 
+ 
+ 
+
+Section 5.7
+Fundamental Changes
+44
+
+ 
+ 
+ 
+
+Section 5.8
+Change in Nature of Business
+44
+
+ 
+ 
+ 
+
+Section 5.9
+Transactions with Affiliates
+44
+
+ 
+ 
+ 
+
+Section 5.10
+Modification of Certain Documents
+45
+
+ 
+ 
+ 
+
+Section 5.11
+Accounting Changes; Fiscal Year
+45
+
+ 
+ 
+ 
+
+Section 5.12
+Margin Regulations
+45
+
+ 
+ 
+ 
+
+Section 5.13
+Compliance with ERISA
+45
+
+ 
+ 
+ 
+
+Section 5.14
+Hazardous Materials
+45
+
+ 
+ 
+ 
+
+ARTICLE VI
+EVENTS OF DEFAULT
+45
+
+ 
+ 
+ 
+
+Section 6.1
+Events of Default
+45
+
+ 
+ 
+ 
+
+Section 6.2
+Remedies
+47
+
+ 
+ 
+ 
+
+ARTICLE VII
+LENDER REPRESENTATIONS AND WARRANTIES
+47
+
+ 
+ 
+ 
+
+Section 7.1
+Organization and Existence
+47
+
+ 
+ 
+ 
+
+Section 7.2
+Authorization
+47
+
+ 
+ 
+ 
+
+Section 7.3
+Purchase Entirely for Own Account
+48
+
+ 
+ 
+ 
+
+Section 7.4
+Investment Experience
+48
+
+ 
+ 
+ 
+
+Section 7.5
+Disclosure of Information
+48
+
+ 
+ 
+ 
+
+Section 7.6
+Restricted Securities
+48
+
+ 
+ 
+ 
+
+Section 7.7
+Legends
+48
+
+ 
+ 
+ 
+
+Section 7.8
+Accredited Lender
+48
+
+ 
+ 
+ 
+
+Section 7.9
+No General Solicitation
+48
+
+ 
+ 
+ 
+
+Section 7.10
+Brokers and Finders
+49
+
+ 
+ 
+ 
+
+Section 7.11
+Rule 506 Compliance
+49
+
+ 
+ 
+ 
+
+ARTICLE VIII
+MISCELLANEOUS
+49
+
+ 
+ 
+ 
+
+Section 8.1
+Amendments, Waivers, Etc
+49
+
+ 
+
+ iii
+ 
+
+ 
+TABLE OF CONTENTS
+(CONTINUED)
+ 
+
+
+ 
+ 
+Page
+
+ 
+ 
+ 
+
+Section 8.2
+Assignments and Participations; Binding Effect
+49
+
+ 
+ 
+ 
+
+Section 8.3
+Costs and Expenses
+50
+
+ 
+ 
+ 
+
+Section 8.4
+Indemnities
+51
+
+ 
+ 
+ 
+
+Section 8.5
+Survival
+51
+
+ 
+ 
+ 
+
+Section 8.6
+Limitation of Liability for Certain Damages
+52
+
+ 
+ 
+ 
+
+Section 8.7
+Lender-Creditor Relationship
+52
+
+ 
+ 
+ 
+
+Section 8.8
+Right of Setoff
+52
+
+ 
+ 
+ 
+
+Section 8.9
+Notices
+52
+
+ 
+ 
+ 
+
+Section 8.10
+Governing Law
+52
+
+ 
+ 
+ 
+
+Section 8.11
+Jurisdiction
+52
+
+ 
+ 
+ 
+
+Section 8.12
+WAIVER OF JURY TRIAL
+53
+
+ 
+ 
+ 
+
+Section 8.13
+Severability
+53
+
+ 
+ 
+ 
+
+Section 8.14
+Execution in Counterparts
+53
+
+ 
+ 
+ 
+
+Section 8.15
+Entire Agreement
+53
+
+ 
+ 
+ 
+
+Section 8.16
+Non-Public Information; Confidentiality
+54
+
+ 
+
+ iv
+ 
+
+ 
+TABLE OF CONTENTS
+(CONTINUED)
+ 
+SCHEDULES I-II
+ 
+EXHIBITS
+ 
+
+
+ 
+Exhibit A
+–
+Form of Assignment
+
+ 
+Exhibit B
+–
+Form of Promissory Note
+
+ 
+Exhibit C
+–
+Form of Warrant
+
+ 
+
+ v
+ 
+
+ 
+TERM
+LOAN AGREEMENT
+ 
+This
+TERM LOAN AGREEMENT (this “Agreement”) dated as of December 29,
+2017, (the “Execution Date”), is entered into between CINEDIGM CORP., a Delaware corporation (the “Borrower”)
+and Bison Entertainment and Media Group, a Cayman Islands company (together with its permitted successors and assigns, the “Lender”).
+ 
+WHEREAS, the Borrower has
+requested that the Lender extend a term loan on the Closing Date, in an aggregate principal amount of $10,000,000;
+ 
+WHEREAS, the Lender has
+indicated its willingness to make such term loan on the terms and subject to the conditions set forth in this Agreement.
+ 
+In recognition of the foregoing
+and for other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereby agree as follows:
+ 
+ARTICLE
+I
+DEFINITIONS, INTERPRETATION AND ACCOUNTING TERMS
+ 
+Section 1.1        Defined
+Terms. As used in this Agreement, the following terms have the following meanings:
+ 
+“Affiliate”
+means, with respect to any Person, each officer, director, general partner or joint-venturer of such Person and any other Person
+that directly or indirectly controls, is controlled by, or is under common control with, such Person. For purpose of this definition,
+“c
+
+r in connection with or pursuant to any Loan Document) and
+delivered to the Lender in connection with or pursuant to any of the foregoing or the Obligations, together with any modification
+of any term, or any waiver with respect to, any of the foregoing.
+ 
+“Material Adverse
+Effect” means an effect that results in or causes a material adverse change in any of (a) the condition (financial or
+otherwise), business, performance, prospects, operations or property of the Borrower, and its Subsidiaries, taken, as a whole,
+(b) the ability of the Borrower to perform its obligations under any Loan Document or (c) the validity or enforceability of any
+Loan Document or the rights and remedies of the Lender under any Loan Document.
+ 
+
+ 13 
+ 
+
+ 
+“Material Environmental
+Liabilities” means Environmental Liabilities exceeding $500,000 in the aggregate.
+ 
+“Material Subsidiary”
+means Con TV, LLC, ADM Cinema Corporation (d/b/a the Pavilion Theatre); Vistachiara Productions Inc. (d/b/a The Bigger Picture);
+Vistachiara Entertainment, Inc.; Cinedigm Entertainment Corp.; Cinedigm Entertainment Holdings, LLC; Cinedigm Home Entertainment,
+LLC; Docurama, LLC; Dove Family Channel, LLC; Cinedigm OTT Holdings, LLC; and Cinedigm Productions, LLC.
+ 
+“Maturity Date”
+means June 28, 2021.
+ 
+“Mezzanine Financing”
+means unsecured Indebtedness of the Borrower pursuant to the Subordinated Notes, dated October 21, 2013, by and among the Borrower
+and certain lenders party thereto, in an aggregate principal amount of up to $5,000,000.
+ 
+“Mezzanine Financing
+Documents” means, collectively, each document (including any certificate or instrument delivered in connection with or
+pursuant to any Mezzanine Financing Document) in connection with or pursuant to the Mezzanine Financing, together with any modification
+of any term, or any waiver with respect to, any of the foregoing.
+ 
+“Moody’s”
+means Moody’s Investor Services, Inc.
+ 
+“Multiemployer
+Plan” means any multiemployer plan, as defined in Section 400l(a)(3) of ERISA, to which any ERISA Affiliate incurs or
+otherwise has any obligation or liability, contingent or otherwise.
+ 
+“Net Cash Proceeds”
+means proceeds received in cash from any Sale of property net of (i) the customary out-of-pocket
+
+on 2.1       Loan
+and Warrant.
+ 
+(a)          Loan
+and Warrant. Subject to the terms and conditions herein, on the Closing Date, the Lender agrees to make a loan to the Borrower
+in the principal amount of US $10,000,000.00 (the “Loan”), net of any fees and expenses owed by the Borrower
+in connection with the Loan Documents and the transactions contemplated thereby. The Borrower agrees to issue to the Lender, in
+connection with the making of the Loan, the Warrant.
+ 
+(b)          Note.
+The Loan shall be evidenced by a Note.
+ 
+Section 2.2     Closing. 
+ 
+(a)        Closing.
+The date and time of the closing of the transactions contemplated by this Agreement (the “Closing Date”) shall
+be 10:00 a.m. (New York time) on December 29, 2017, subject to the satisfaction (or waiver by the Lender) of the conditions to
+the closing set forth in Sections 2.3 below (or such later date as is mutually agreed to by the Lender and the Borrower).
+The closing shall occur on the Closing Date at the offices of Kelley Drye & Warren LLP, 101 Park Avenue, New York, NY 10178.
+ 
+Section 2.3       Conditions
+Precedent to Closing.
+ 
+(a)          Lender
+Closing Conditions. The obligation of the Lender to make the Loan at the closing is subject to the satisfaction, at or before
+the Closing Date, of each of the following conditions, provided that these conditions are for the Lender’s sole benefit and
+may be waived by the Lender at any time in its sole discretion by providing the Borrower with prior written notice of such waiver:
+ 
+
+ 21 
+ 
+
+ 
+(1)         The
+Lender shall have received this Agreement, duly executed and delivered by the Borrower and the Lender.
+ 
+(2)         The
+Lender shall have received the Warrant, duly executed and delivered by the Borrower.
+ 
+(3)         The
+Lender shall have received the Note evidencing the Loan, dated as of the Closing Date, duly executed and delivered by the Borrower.
+ 
+(4)         The
+Lender shall have received a certificate of the President, Chief Executive Officer or Chief Financial 
+
+d proceeds thereof) acquired or built, or the improvements or repairs, financed by such Indebtedness
+(whether directly or through a Permitted Refinancing);
+ 
+
+ 41 
+ 
+
+ 
+(e)              Liens
+arising by operation of applicable Requirements of Law as a result of the non-payment of lawful claims; provided, that such
+Liens do not encumber property that, individually or in the aggregate, has a value greater than or equal to $500,000; and
+ 
+(f)               Liens
+created pursuant to the First Lien Loan Documents and Second Lien Loan Documents and Permitted Refinancing.
+ 
+Section
+5.3           Investments. The Borrower shall not make or
+maintain, directly or indirectly, any Investment except for the following:
+ 
+(a)              Investments
+existing on the Closing Date and set forth on Schedule 5.3;
+ 
+(b)              Investments
+in Cash Equivalents;
+ 
+(c)              Investments
+consistent with Borrower’s business plan and past practices;
+ 
+(d)              Investments
+in (i) CONtv, LLC, Docurama, LLC, Dove Family Channel, LLC, Cinedigm OTT Holdings, LLC, and Cinedigm Productions, LLC made prior
+to July 10, 2016, and (ii) in any such Persons made on or after July 10, 2016, the proceeds of which are used solely to pay the
+ordinary course operating costs and expenses of such Persons and their Subsidiaries;
+ 
+(e)              (i)
+endorsements for collection or deposit in the ordinary course of business consistent with past practice, (ii) extensions of trade
+credit (other than to Affiliates of the Borrower) arising or acquired in the ordinary course of business and (iii) Investments
+received in settlements in the ordinary course of business of past due receivables;
+ 
+(f)               Investments
+by Borrower in any Subsidiary; and
+ 
+(g)              Investments
+by the Borrower or any Subsidiary of the Borrower in a Person engaged in Asia in a business related to the business of the Borrower
+or its Subsidiaries.
+ 
+Section 5.4           Asset
+Sales; Stock Issuances. The Borrower shall not, and shall not permit any of its Subsidiaries to, directly or indirectly, Sell,
+lea
+
+ the continuance of any Event of Default, (a) the Lender may, by notice to the Borrower, declare immediately due and payable
+all or part of any Obligation (including the Loan and any accrued but unpaid interest thereon), whereupon the same shall become
+immediately due and payable, without presentment, demand, protest or further notice or other requirements of any kind, all of which
+are hereby expressly waived by the Borrower and (b) the Lender, may exercise any other right or remedy provided under any Loan
+Document or by any applicable Requirement of Law; provided, however, that effective immediately upon the occurrence of any
+Event of Default specified in Section 6.1(e), (all Obligations (including in each case all Loan and any accrued all accrued
+but unpaid interest thereon) shall automatically become and be due and payable, without presentment, demand, protest or further
+notice or other requirement of any kind, all of which are hereby expressly waived by the Borrower.
+ 
+ARTICLE
+VII
+LENDER REPRESENTATIONS AND WARRANTIES
+ 
+The Lender hereby represents
+and warrants to the Borrower, as of the Closing Date, that:
+ 
+Section 7.1           Organization
+and Existence. The Lender is a validly existing corporation, limited partnership or limited liability company and has all requisite
+corporate, partnership or limited liability company power and authority.
+ 
+Section 7.2           Authorization.
+The execution, delivery and performance by the Lender of the Loan Documents to which the Lender is a party have been duly authorized
+and each will constitute the valid and legally binding obligation of the Lender, enforceable against the Lender in accordance with
+their respective terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of
+general applicability, relating to or affecting creditors’ rights generally.
+ 
+
+ 47 
+ 
+
+ 
+Section 7.3           Purchase
+Entirely for Own Account. The Warrant and the Warrant Shares will be acquired for th
+
+in any tombstone
+or other advertising materials shall be limited to matters previously disclosed in any press release made by or on behalf of a
+borrower or otherwise consented to in writing by the Borrower), (vi) to current or prospective assignees or participants, and to
+their respective Related Persons, in each case to the extent such assignees, participants or Related Persons agree to be bound
+by provisions substantially similar to the provisions of this Section 8.16 and (viii) in connection with the exercise of
+any remedy under any Loan Document. In the event of any conflict between the terms of this Section 8.16 and those of any
+other Contractual Obligation entered into with the Borrower (whether or not a Loan Document), the terms of this Section 8.16
+shall govern.
+ 
+[SIGNATURE
+PAGES FOLLOW]
+ 
+
+ 54 
+ 
+
+ 
+IN WITNESS WHEREOF,
+the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized, as of the
+date first above written.
+ 
+
+
+ 
+CINEDIGM CORP.,
+
+ 
+as Borrower
+
+ 
+ 
+
+ 
+By:
+/s/ Gary S. Loffredo
+
+ 
+Name:
+Gary S. Loffredo
+
+ 
+Title:  
+President, Digital Cinema, General Counsel and Secretary
+
+ 
+ 
+
+ 
+Bison Entertainment and Media Group, as Lender
+
+ 
+ 
+
+ 
+By:
+/s/ Xu Peixin
+
+ 
+Name:
+Xu Peixin
+
+ 
+Title:  
+Director
+
+ 
+
+ 
+ 
+
+ 
+Schedule I- Payments to Shout Factory
+None.
+ 
+
+ 
+ 
+
+ 
+Schedule II – Addresses for Notices
+ 
+
+
+If to the Borrower:
+ 
+
+Cinedigm Corp.
+ 
+
+45 West 36th Street, 7th Floor
+ 
+
+New York, NY 10018
+ 
+
+Attention: Jeffrey S. Edell
+ 
+
+Email: Jedell@cinedigm.com
+ 
+
+ 
+ 
+
+with a copy to:
+ 
+
+Kelley Drye & Warren LLP
+ 
+
+101 Park Avenue, 27th Floor
+ 
+
+New York, NY 10178
+ 
+
+Attention: Jonathan Cooperman
+ 
+
+Email: JCooperman@kelleydrye.com
+ 
+
+Facsimile: (212) 808-7897
+ 
+
+ 
+ 
+
+If to Lender:
+ 
+
+Bison Entertainment and Media Group
+ 
+
+c/o Bison Entertainment Investment Limited
+ 
+
+Unit 1501-2, 15/F, Sino Plaza
+ 
+
+255 Gloucester Road
+ 
+
+Causeway Bay, Hong Kong
+ 
+
+Attn:  Mr. Peng Jin
+ 
+
+Email:  Pengjin@bisonholding.com
+ 
+
+ 
+ 
+
+with a copy to:
+ 
+
+ 
+
+ 
+ 
+
+ 
+Schedule 3.2 – Permits
+ 
+
+-None
+
+ 
+Lenders’ consents: 
+ 
+
+-Consent of lenders of the First Lien Loan Agreement.
+
+ 
+
+-Consent of lenders of Second Lien Loan Agreement
+
+ 
+
+ 
+ 
+
+ 
+Schedule 3.3 – Ownership of Subsidiaries
+ 
+
+
+ 
+ 
+Full Legal
+Name
+ 
+Jurisdiction of
+Organization
+ 
+Organizational
+Number
+ 
+Tax
+Number
+ 
+Location of
+Chief Executive
+Office
+ 
+Number
+of Shares 
+of each
+Class of
+Stock
+ 
+Number
+of
+Shares
+Outstanding
+ 
+Percentage of
+Outstanding
+Shares for
+Each Class
+Owned
+
+1
+ 
+ADM Cinema Corporation d/b/a the Pavilion Theatre
+ 
+Delaware   
+ 
+3900739
+ 
+20-2260904
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+1,000
+ 
+1,000
+ 
+100% by Cinedigm Corp.
+
+2
+ 
+Vistachiara Productions Inc., d/b/a The Bigger Picture
+ 
+Delaware  
+ 
+4265961
+ 
+20-8085399
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+1,000
+ 
+100
+ 
+100% by Cinedigm Corp.
+
+3
+ 
+Vistachiara Entertainment, Inc.
+ 
+Delaware  
+ 
+4456723
+ 
+N/A
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+1000
+ 
+100
+ 
+100% by Cinedigm Corp.
+
+4
+ 
+Cinedigm Entertainment Corp.
+ 
+New York   
+ 
+1463956
+ 
+13-3578656
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+100
+ 
+100
+ 
+100% by Cinedigm Corp.
+
+5
+ 
+Cinedigm Entertainment Holdings, LLC
+ 
+Delaware   
+ 
+5411880
+ 
+46-3866070
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Corp.
+
+6
+ 
+Access Digital Media, Inc.
+ 
+Delaware
+ 
+3621753
+ 
+20-0037764
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+50,000,000
+ 
+24,586,169
+ 
+100% by Cinedigm DC Holdings, LLC
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+ 
+Full Legal
+Name
+ 
+Jurisdiction of
+Organization
+ 
+Organizational
+Number
+ 
+Tax
+Number
+ 
+Location of
+Chief Executive
+Office
+ 
+Number
+of Shares 
+of each
+Class of
+Stock
+ 
+Number
+of
+Shares
+Outstanding
+ 
+Percentage of
+Outstanding
+Shares for
+Each Class
+Owned
+
+7
+ 
+Christie/AIX, Inc.
+ 
+Delaware  
+ 
+3980067
+ 
+20-3133713
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+4,000,000
+ 
+755,861
+ 
+100% by Access Digital Media, Inc.
+
+8
+ 
+Access Digital Cinema Phase 2, Corp.
+ 
+Delaware  
+ 
+4443030
+ 
+26-1444888
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+1,000
+ 
+100
+ 
+100% by Cinedigm Corp.
+
+9
+ 
+Access Digital Cinema Phase 2 B/AIX Corp.
+ 
+Delaware  
+ 
+4619834
+ 
+26-4372242
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+1,000
+ 
+100
+ 
+100% by Access Digital Cinema Phase 2, Corp.
+
+10
+ 
+Cinedigm Digital Funding I, LLC
+ 
+Delaware  
+ 
+4809809
+ 
+27-2336070
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Christie/AIX, Inc.
+
+11
+ 
+CDF2 Holdings, LLC
+ 
+Delaware  
+ 
+4889179
+ 
+27-3843120
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Access Digital Cinema Phase 2, Corp.
+
+12
+ 
+Cinedigm Digital Funding 2, LLC
+ 
+Delaware  
+ 
+5023164
+ 
+27-3843120
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+N/A
+ 
+N/A
+ 
+100% by CDF2 Holdings, LLC
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+ 
+Full Legal
+Name
+ 
+Jurisdiction of
+Organization
+ 
+Organizational
+Number
+ 
+Tax
+Number
+ 
+Location of
+Chief Executive
+Office
+ 
+Number
+of Shares 
+of each
+Class of
+Stock
+ 
+Number
+of
+Shares
+Outstanding
+ 
+Percentage of
+Outstanding
+Shares for
+Each Class
+Owned
+
+13
+ 
+Cinedigm Digital Cinema Australia Pty Ltd
+ 
+Australia
+ 
+N/A
+ 
+N/A
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+100
+ 
+100
+ 
+100% by Cinedigm Corp.
+
+14
+ 
+Cinedigm DC Holdings, LLC
+ 
+Delaware  
+ 
+5290958
+ 
+46-2100494
+ 
+45 W. 36th Street, 7th Floor, New York, NY  10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Corp.
+
+15
+ 
+Cinedigm Home Entertainment, LLC
+ 
+Delaware
+ 
+5416861
+ 
+46-3906168
+ 
+
+Cinedigm Corp.
+45 West 36th Street, 7th Floor
+New York, NY 10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Entertainment Holdings, LLC
+
+16
+ 
+CON TV, LLC
+ 
+Delaware
+ 
+ 
+ 
+ 
+ 
+
+Cinedigm Corp.
+45 West 36th Street, 7th Floor
+New York, NY 10018
+ 
+N/A
+ 
+N/A
+ 
+85% by Cinedigm Entertainment Corp.
+
+17
+ 
+Docurama, LLC
+ 
+Delaware
+ 
+ 
+ 
+ 
+ 
+
+Cinedigm Corp.
+45 West 36th Street, 7th Floor
+New York, NY 10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Entertainment Corp.
+
+18
+ 
+Dove Family Channel, LLC
+ 
+Delaware
+ 
+ 
+ 
+ 
+ 
+
+Cinedigm Corp.
+45 West 36th Street, 7th Floor
+New York, NY 10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Entertainment Corp.
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+ 
+Full Legal
+Name
+ 
+Jurisdiction of
+Organization
+ 
+Organizational
+Number
+ 
+Tax
+Number
+ 
+Location of
+Chief Executive
+Office
+ 
+Number
+of Shares 
+of each
+Class of
+Stock
+ 
+Number
+of
+Shares
+Outstanding
+ 
+Percentage of
+Outstanding
+Shares for
+Each Class
+Owned
+
+19
+ 
+Cinedigm OTT Holdings, LLC
+ 
+Delaware
+ 
+ 
+ 
+ 
+ 
+
+Cinedigm Corp.
+45 West 36th Street, 7th Floor
+New York, NY 10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Entertainment Corp.
+
+20
+ 
+Cinedigm Productions, LLC
+ 
+Delaware
+ 
+ 
+ 
+ 
+ 
+
+Cinedigm Corp.
+45 West 36th Street, 7th Floor
+New York, NY 10018
+ 
+N/A
+ 
+N/A
+ 
+100% by Cinedigm Entertainment Corp.
+
+ 
+
+ 
+ 
+
+ 
+Schedule 3.13 – ERISA
+ 
+Cinedigm 401(k) Plan
+ 
+UnitedHealthcare Choice Plus Plan
+ 
+UnitedHealthcare Choice Plan AH8K
+ 
+UnitedHealthcare Choice Plus AICI
+ 
+Anthem Blue View Vision BV B2
+ 
+Cafeteria Plan for Cinedigm Digital Cinema Corp.
+ 
+Cinedigm Digital Empire Dental Complete High and Low Deductible
+Plans
+ 
+Cigna Term Life Insurance for Cinedigm Corp.
+ 
+Sun Life and Health Insurance Company Long Term Disability Insurance
+ 
+Sun Life and Health Insurance Company Short Term Disability
+Insurance
+ 
+Second Amended and Restated 2000 Equity Incentive Plan of the
+Company
+ 
+
+·Amendment dated May 9, 2008 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 2 dated September 4, 2008 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 3 dated September 30, 2009 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 4 dated September 14, 2010 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 5 dated April 20, 2012 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 6 dated September 12, 2012 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 7 dated September 16, 2014 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 8 dated September 8, 2016 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Amendment No. 9 dated September 27, 2016 to the Second Amended and Restated 2000 Equity Incentive Plan of the Company
+
+·Form of Notice of Restricted Stock Award
+
+·Form of Non-Qualified Stock Option Agreement
+
+·Form of Restricted Stock Unit Agreement (employees)
+
+·Form of Stock Option Agreement
+
+·Form of Restricted Stock Unit Agreement (directors)
+ 
+
+ 
+ 
+
+ 
+2017 Equity Incentive Plan of the Company
+ 
+
+·Form of Notice of Incentive Stock Option Grant
+
+·Form of Notice of Option Grant
+
+·Form of Notice of Restricted Stock Award
+
+·Form of Notice of Restricted Stock Unit Award
+
+·Form of Notice of Performance-Based Restricted Stock Award.
+ 
+Stock Option Agreement between Cinedigm Digital Cinema Corp.
+and Christopher J. McGurk dated as of December 23, 2010.
+ 
+Non-Statutory Stock Option Agreements between Cinedigm Corp.
+and former Gaiam employees dated as of October 21, 2013.
+ 
+Cinedigm Corp. Management Incentive Award Plan
+ 
+
+ 
+ 
+
+ 
+Schedule 3.14 – Environmental Matters
+ 
+None.
+ 
+
+ 
+ 
+
+ 
+Schedule 3.16 – Real Property
+ 
+Lease, dated April 10, 2017, by and between Cinedigm Corp. and
+45 West 36th Street LLC, for office space at 45 W. 36th Street, 7th Floor, New York, New York
+10018.
+ 
+Consent to Sublet Agreement, dated April 10, 2017, by and between
+Cinedigm Corp. and NTT DATA, Inc., for office space at 45 W. 36th Street, 7th Floor, New York, New York 10018.
+ 
+Office Lease, dated January 4, 2017, by and between Douglas
+Emmet 2016, LLC and Cinedigm Corp., for office space at 15301 Ventura Boulevard, Suites 410 and 420 Sherman Oaks, California 91403.
+ 
+
+ 
+ 
+
+ 
+Schedule 3.18
+Material Licenses; Permits; Liens; Indebtedness
+ 
+Standard Form Video License, dated as of December 7, 2009, by
+and between New Video Group Inc. and Rooster Teeth Productions LLC.
+ 
+
+ 
+ 
+
+ 
+
+·Amendment to the Standard Form Video License, dated December 21, 2010, by and between New Video Group Inc. and Rooster Teeth
+Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated June 30, 2011, by and between New Video Group Inc. and Rooster Teeth Productions
+LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated February 1, 2012, by and between New Video Group Inc. and Rooster Teeth
+Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated February 12, 2013, by and between New Video Group Inc. and Rooster Teeth
+Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated July 2, 2013, by and between Cinedigm Entertainment Corp. f/k/a New Video
+Group Inc. and Rooster Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated January 10, 2014, by and between Cinedigm Entertainment Corp. and Rooster
+Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated April 2, 2015, by and between Cinedigm Entertainment Corp. and Rooster
+Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated July 8, 2015, by and between Cinedigm Entertainment Corp. and Rooster Teeth
+Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated July 8, 2015, by and between Cinedigm Entertainment Corp. and Rooster Teeth
+Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated April 1, 2016, by and between Cinedigm Entertainment Corp. and Rooster
+Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated June 22, 2016, by and between Cinedigm Entertainment Corp. and Rooster
+Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated September 22, 2016, by and between Cinedigm Entertainment Corp. and Rooster
+Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated August 23, 2016, by and between Cinedigm Entertainment Corp. and Rooster
+Teeth Productions LLC.
+ 
+
+·Amendment to the Standard Form Video License, dated May 25, 2017, by and between Cinedigm Entertainment Corp. and Rooster Teeth
+Productions LLC.
+ 
+4K Media:
+ 
+
+·Standard Form Video License, dated as of August 23, 2013, by and between Cinedigm Entertainment Group and 4K Media Inc., as
+amended by:
+ 
+
+ 
+ 
+
+ 
+
+·Amendment One to the Standard Form License, dated as of June 19, 2014, by and between 4K Media Inc. and Cinedigm Entertainment
+Corp.
+ 
+
+·Second Amendment to the Standard Form License, dated as of January 29, 2015, by and between 4K Media Inc. and Cinedigm Entertainment
+Corp.
+ 
+
+·Amendment Three to the Standard Form License, dated as of March 16, 2016, by and between 4K Media Inc. and Cinedigm Entertainment
+Corp.
+ 
+Waxworks:
+ 
+
+·Proposal, dated as of February 17, 2016, by and between Waxworks, Inc. and Cinedigm Entertainment Corp.
+ 
+Scholastic:
+ 
+
+·Agreement, dated as of June 27, 2002, by and between New Video Group, Inc. and Scholastic Entertainment Inc.
+ 
+
+·First Amendment to the Agreement, dated as of August 20, 2002, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Second Amendment to the Agreement, dated as of January 15, 2004, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Third Amendment to the Agreement, dated as of April 1, 2008, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Fourth Amendment to the Agreement, dated as of September 9, 2009, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Fifth Amendment to the Agreement, dated as of October 1, 2010, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Sixth Amendment to the Agreement, dated as of December 1, 2011, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Seventh Amendment to the Agreement, 
+
+ember 18, 2013, by and between New Video Group, Inc. and Scholastic Entertainment
+Inc.
+ 
+
+·Distribution Agreement, dated as of October 1, 2011, by and between New Video Group Inc. and Scholastic Entertainment Inc.
+ 
+
+·Distribution Agreement, dated as of January 1, 2012, by and between New Video Group Inc. and Scholastic Entertainment Inc.
+ 
+
+ 
+ 
+
+ 
+
+·Agreement, dated as of May 31, 2013, by and between Cinedigm Digital Cinema Corp. (successor-in-interest to New Video Group,
+Inc.) and Scholastic Entertainment Inc.
+ 
+Sonar:
+ 
+
+·Exclusive License Agreement, dated as of March 29, 2013, by and between Sonar Entertainment Distribution LLC and VE Newco,
+LLC dba Gaiam Vivendi Entertainment.
+ 
+
+·Amendment to Exclusive License Agreement, dated as of April 29, 2013, by and between Sonar Entertainment Distribution LLC and
+VE Newco, LLC dba Gaiam Vivendi Entertainment.
+ 
+
+·Amendment to Exclusive License Agreement, dated as of January 15, 2014, by and between Sonar Entertainment Distribution LLC
+and Cinedigm Home Entertainment, LLC (as successor-in-interest to VE Newco, LLC dba Gaiam Vivendi Entertainment).
+ 
+
+·Distribution Agreement, dated as of September 16, 2015, by and between Cinedigm Entertainment Corp. and Sonar Entertainment
+Distribution LLC.
+ 
+Discovery:
+ 
+
+·Home Video Distribution & Co-Branding License Agreement, dated as of December 23, 2008, by and between Discovery Licensing
+Inc. and Gaiam Americas, Inc.
+ 
+
+·Home Video License Agreement, dated May 26, 2009, effective as of September 1, 2009, by and between Discovery Licensing Inc.
+and Gaiam Americas, Inc.
+ 
+
+·Amendment to home Video License Agreement, dated as of October 12, 2010, by and between Discovery Licensing Inc. and Gaiam
+Americas, Inc.
+ 
+
+·Amendment to home Video License Agreement, dated as of March 30, 2011, by and between Discovery Licensing Inc. and Gaiam Americas,
+Inc.
+ 
+
+·Amendment to home Video License Agreement, dated as of June 4, 2012, by and between Discovery Licensing Inc. and Gaiam Americas,
+Inc.
+ 
+
+·Amendment to home Video License Agreement, dated as of June 28, 2012, by and between Discovery Licensing Inc. and Gaiam Americas,
+Inc.
+ 
+StudioCanal:
+ 
+
+·Binding Term Sheet – Exclusive License, dated as of October 4, 2012, by and between VE Newco, LLC dba Gaiam Vivendi Entertainment
+and StudioCanal S.A.
+ 
+
+·Amendment to Term Sheet, dated as of January 21, 2013, by and between VE Newco, LLC dba Gaiam Vivendi Entertainment and StudioCanal
+S.A.
+ 
+
+ 
+ 
+
+ 
+
+·Notice of Assignment of Term Sheet, dated as of December 10, 2013, by and between Cinedigm Home Entertainment, LLC and StudioCanal
+S.A.
+ 
+
+·Binding Term Sheet – Exclusive License, dated as of November 28, 2012, by and between VE Newco, LLC dba Gaiam Vivendi
+Entertainment and StudioCanal S.A.
+ 
+
+·Notice of Assignment of Term Sheet, dated as of December 10, 2013, by and between Cinedigm Home Entertainment, LLC and StudioCanal
+S.A.
+ 
+VCI Entertainment:
+ 
+
+·Manufacturing & Distribution Agreement, dated as of April 22, 2013, by and between VE Newco, LLC dba Gaiam Vivendi Entertainment
+and Blaire & Associates, Ltd. dba VCI Entertainment.
+ 
+
+·Amendment to Manufacturing & Distribution Agreement, dated as of January 27, 2014, by and between Cinedigm Home Entertainment,
+LLC and Blaire & Associates, Ltd dba VCI Entertainment.
+ 
+
+·Amendment to Manufacturing & Distribution Agreement, dated as of August 5, 2014, effective as of April 22, 2014, by and
+between Cinedigm Home Entertainment, LLC and Blaire & Associates, Ltd dba VCI Entertainment.
+ 
+Medallion Releasing:
+ 
+
+·Multi-Picture Distribution Agreement, dated as of February 8, 2016, by and between Cinedigm Entertainment Corp. and Medallion
+Releasing, Inc.
+ 
+
+·First Amendment to the Multi-Picture Distribution Agreement, dated as of June 14, 2016, by and between Cinedigm Entertainment
+Corp. and Medallion Releasing, Inc.
+ 
+
+·Second Amendment to the Mutli-Picture Distribution Agreement, dated as of September 9, 2016, by and between Medallion Releasing,
+Inc. and Cinedigm Entertainment Corp.
+ 
+UMG:
+ 
+
+·Exclusive Subdistribution Agreement, dated as of October 1, 2011, by and between UMG Recordings, Inc. and Vivendi Entertainment,
+a division of Universal Music Group Distribution, Corp.
+ 
+Canny Minds:
+ 
+
+·Distribution Agreement, dated as of April 4, 2016, by and between Go Entertain and Cinedigm Entertainment Corp.
+ 
+
+·First Amendment to Distribution Agreement, dated as of June 14, 2016, by and between Go Entertain and Cinedigm Entertainment
+Corp.
+ 
+
+ 
+ 
+
+ 
+
+·Second Amendment to the Distribution Agreement, dated as of February 22, 2017, by and between Canny Minds Ltd.
+ 
+Shout!:
+ 
+
+·Videogram Manufacturing and Distribution Agreement, dated as of March 13, 2007, by and between Vivendi Visual Entertainment,
+a Division of Universal Music Group Distribution, Corp. and Shout! Factory, LLC.
+ 
+
+·Letter Agreement, dated as of September 5, 2008, by and between Vivendi Entertainment, f/k/a Vivendi Visual Entertainment,
+a Division of Universal Music Group Distribution, Corp. and Shout! Factory, LLC.
+ 
+
+·Letter Agreement, dated as of January 5, 2009, by and between Vivendi Entertainment, f/k/a Vivendi Visual Entertainment, a
+Division of Universal Music Group Distribution, Corp. and Shout! Factory, LLC.
+ 
+
+·Letter Agreement, dated as of May 27, 2009, by and between Vivendi Entertainment (fka Vivendi Visual En
+
+etween VE Neco, LLC dba GV Entertainment (as successor-in-interest to Vivendi
+Entertainment, a division of Universal Music Group Distribution, Corp.) and Shout! Factory, LLC..
+ 
+
+·Email, dated January 8, 2014, from Karen Moreau to Dana Walker.
+ 
+
+·Seventh Amendment to the Distribution Agreement, dated as of February 24, 2016, by and between Shout! Factory, LLC and Cinedigm
+Home Entertainment, LLC (successor-in-interest to Cinedigm Newco LLC dba GV Entertainment).
+ 
+
+ 
+ 
+
+ 
+
+·Eighth Amendment to the Distribution Agreement, dated as of December 13, 2016, by and between Shout! Factory, LLC and Cinedigm
+Home Entertainment, LLC (successor-in-interest to VE Newco, LLC dba GV Entertainment).
+ 
+Online Distributors
+ 
+Netflix:
+ 
+
+·First Amended and Restated License Agreement for Internet Transmission, dated as of October 12, 2012, by and between Netflix,
+Inc. and New Video Group, Inc., as amended from time to time.
+ 
+
+·Short Form License, dated as June 30, 2014, by and between Netflix, Inc. and Cinedigm Entertainment Corp. f/k/a New Video Group,
+Inc.
+ 
+Amazon:
+ 
+
+·Digital Video License Agreement, dated as of December 22, 2015, by and between Amazon Digital Services, Inc., Amazon Media
+EU S.a.r.l, Amazon Digital Services, Inc. and any other Amazon Party that may join the Agreement and Cinedigm Entertainment Corp.,
+as amended from time to time.
+ 
+iTunes:
+ 
+
+·Digital Movie Download Sales Agreement, dated as of August 27, 2007, by and between Apple Inc. and New Video Group, Inc., as
+amended from time to time.
+ 
+Hulu:
+ 
+
+·Fifth Amended and Restated Content License Agreement, dated as of May 5, 2017, by and between Hulu, LLC and Cinedigm Entertainment
+Corp.
+ 
+Google:
+ 
+
+·Transactional Content Agreement, dated as of April 19, 2011, by and between Google Inc. and New Video Group, Inc., as amended
+from time to time.
+ 
+
+·Content Hosting Services Agreement, dated as of May 12, 2009, by and between New Video Group, Inc. and Google Inc., as amended
+from time to time.
+ 
+VUDU:
+ 
+
+·EST/VOD License Agreement, dated as of June 30, 2010, by and between New Video Group, Inc. and VUDU, Inc., as amended from
+time to time.
+ 
+
+ 
+ 
+
+ 
+
+·AVOD License Agreement, dated as of July 25, 2016, by and between Cinedigm Entertainment Corp. and VUDU, Inc., as amended from
+time to time.
+ 
+iNDEMAND:
+ 
+
+·Electronic Sell-Through Agreement, dated as of January 3, 2017, by and between Cinedigm Entertainment Corp. and iN DEMAND L.L.C.
+ 
+Microsoft:
+ 
+
+·Amended and Restated Digital Content Delivery Agreement – Video-On-Demand and Electronic Sell-Through, dated as of July
+2, 2010, by and between New Video Group Inc. and Microsoft Corporation, as amended from time to time.
+ 
+Midwest Tape:
+ 
+
+·Digital Content Distribution Agreement, dated as of February 22, 2013, by and between New Video Group Inc. and Midwest Tape,
+LLC.
+ 
+adRise:
+ 
+
+·Digital Distribution License Agreement, dated as of December 16, 2015, by and between Cinedigm Entertainment Corp. and adRise,
+Inc..
+ 
+Crunchyroll:
+ 
+
+·License Agreement, dated as of June 24, 2014, by and Between Cinedigm Entertainment Corp. and Crunchyroll, Inc.
+ 
+Viva Pictures:
+ 
+
+·Distribution Agreement, dated as of March 10, 2017, by and between Cinedigm Entertainment Corp. and Viva Pictures Distribution,
+LLC.
+ 
+Sony:
+ 
+
+·Video Distribution Agreement, dated as of October 2, 2009, by and between Sony Media Software and Services, Inc. and New Video
+Group, as amended from time to time.
+ 
+Vubiquity:
+ 
+
+·VOD Content License Agreement, dated as of July 15, 2015, by and between Cinedigm Entertainment Corp. and Vubiquity, Inc.,
+as amended from time to time.
+ 
+
+ 
+ 
+
+ 
+Starz:
+ 
+
+·Letter Agreement, dated as of October 19, 2012, by and between New Video Group Inc. and Starz Entertainment, LLC, as amended
+from time to time.
+ 
+
+·License Agreement, dated as of January 19, 2017, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of March 17, 2017, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of May 23, 2014, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of April 2, 2015, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of October 15, 2015, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of January 31, 2014, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of December 5, 2013, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC,
+as amended from time to time.
+ 
+
+·License Agreement, dated as of January 7, 2016, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of May 1, 2017, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of June 5, 2015, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+
+·License Agreement, dated as of July 20, 2016, by and between Cinedigm Entertainment Corp. and Starz Entertainment, LLC.
+ 
+Amazon Prime:
+ 
+
+·Digital Video Subscription License Agreement, dated as of November 9, 2010, by and between New Video Group, Inc. and Amazon
+Digital Services, Inc., as amended from time to time.
+ 
+MediaNaviCo:
+ 
+
+·Digital Video License Agreement, dated as of August 10, 2016, by and between MediaNaviCo LLC and Cinedigm Entertainment Corp.
+ 
+
+ 
+ 
+
+ 
+American Documentary:
+ 
+
+·Licensing Agreement, dated as of March 7, 2014, by and between Cinedigm Entertainment Corp. and The American Documentary Inc.
+ 
+
+·Licensing Agreement, dated as of March 24, 2015, by and between Cinedigm Home Entertainment, LLC and The American Documentary
+Inc.
+ 
+
+·Licensing Agreement, dated as of March 30, 2016, by and between Cinedigm Entertainment Corp. and The American Documentary Inc.
+ 
+Digital Store:
+ 
+
+·Electronic Sell-Through, Video-on-Demand and Subscription Video-on-Demand License Agreement, dated as of December 7, 2011,
+by and between Cinedigm Entertainment Corp. and Digital Store LLC, as amended from time to time.
+ 
+Valve:
+ 
+
+·Steam Streaming Video Distribution Agreement, dated as of June 8, 2016, by and between Valve Corporation and Cinedigm Entertainment
+Corp.
+ 
+(vii)        Over-the-Top
+Agreements
+ 
+Amazon:
+ 
+
+·Digital Video License Agreement, dated as of November 25, 2015, by and between the Amazon entities listed therein and Cinedigm
+OTT Holdings, LLC.
+ 
+iTunes:
+ 
+
+·Apple Developer Program License Click Through Agreement
+ 
+Roku:
+ 
+
+·Channel Development Agreement, dated as of March 2, 2015, by and between Roku, Inc. and Cinedigm Entertainment Corp.
+ 
+
+·First Amendment to Channel Development Agreement, dated as of March 2, 2016, by and between Roku, Inc. and Cinedigm Entertainment
+Corp.
+ 
+adRise:
+ 
+
+·Professional Services Agreement, dated as of February 8, 2013, by and between Cinedigm Entertainment Group, a division of Cinedigm
+Digital Cinema Corp. and adRise, Inc.
+ 
+
+ 
+ 
+
+ 
+Google:
+ 
+
+·Google Play Developer Distribution Agreement, dated as of May 17, 2017.
+ 
+Obligations of the Borrower or any Subsidiary of the Borrower
+secured by a material lien:
+ 
+Cinedigm Credit Agreement:
+ 
+
+·Second Amended and Restated Credit Agreement, dated as of April 29, 2015, by and among Cinedigm Corp., the Lenders party thereto,
+Société Générale, as Administrative Agent, and OneWest Bank, FSB, as Collateral Agent, as amended (the
+“Cinedigm Credit Agreement”).
+ 
+Second Lien Loan Agreement:
+ 
+
+·Second Lien Loan Agreement, dated as of July 14, 2016, by and among Cinedigm Corp., the lenders party thereto and Cortland
+Capital Market Services LLC, as Administrative and Collateral Agent, as amended
+ 
+Phase 2 Credit Agreement:
+ 
+
+·Credit Agreement, dated as of October 18, 2011, by and among Cinedigm Digital Funding 2, LLC, as the Borrower, Société
+Générale, New York Branch, as Administrative Agent and Collateral Agent, Natixis New York Branch, as Syndication
+Agent, ING Capital LLC, as Documentation Agent, and the Lenders party thereto (“Phase 2 Facility”).
+ 
+Prospect Loan:
+ 
+
+·Term Loan Agreement, dated as of February 28, 2013, as amended, by and among Cinedigm DC Holdings, LLC, Access Digital Media,
+Inc., Access Digital Cinema Phase 2, Corp., the Guarantors party thereto, the Lenders party thereto and Prospect Capital Corporation
+as Administrative Agent and Collateral Agent (the “Prospect Facility”)
+ 
+KBC Facilities:
+ 
+
+·Credit Facility Agreement, dated as of May 3, 2010, by and between Access Digital Cinema Phase 2 B/AIX Corp and KBC Bank NV
+(principal amount: $ 13,311,800)
+ 
+
+·Credit Facility Agreement, dated as of May 31, 2011, by and between Access Digital Cinema Phase 2 B/AIX Corp and KBC Bank NV
+(principal amount: $ 11,424,760)
+ 
+
+·Credit Facility Agreement, dated as of May 6, 2010, by and between Access Digital Cinema Phase 2 B/AIX Corp and KBC Bank NV
+(principal amount: $ 22,335,993)
+ 
+
+ 
+ 
+
+ 
+
+·Credit Facility Agreement by and between Access Digital Cinema Phase 2 B/AIX Corp and KBC Bank NV (principal amount: $ 6,450,000)
+ 
+Collectively, the Credit Facility Agreements
+by and between Access Digital Cinema Phase 2 B/AIX Corp and KBC Bank NV are referred to as the “KBC Agreements.”
+ 
+Other Indebtedness:
+ 
+2013 Subordinated 9% Notes due 2018:
+ 
+
+·Subordinated
+Note issued on October 21, 2013 to the following:1
+ 
+
+oFifth Third Bank as Custodian of the Ronald L. Chez IRA
+ 
+
+oThe Riley Family Marital Trust DTD 7/3/13
+ 
+
+oRobert Antin Children Irrevocable Trust
+ 
+
+oZvi Rhine (purchased from Blue Opportunity Fund)
+ 
+
+oSabra Investments, LP
+ 
+
+oZvi Rhine
+ 
+
+oAndrew C. Hart IRA Rollover
+ 
+
+oAtocha Land LLC
+ 
+
+oTTIG Capital Management LLC
+ 
+Phase 2 Vendor and Exhibitor Notes
+ 
+NEC Display Solutions of America, Inc.:
+ 
+
+·Subordinated Promissory Note, dated December 19, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $4,847.99.
+ 
+
+·Subordinated Promissory Note, dated March 30, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $30,758.53.
+ 
+
+·Subordinated Promissory Note, dated January 16, 2013, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $25,887.26.
+ 
+ 
+
+1        List
+is to the best knowledge of the Company; there may have been transfers of notes. Accordingly, the lender names may differ from
+those listed.
+ 
+
+ 
+ 
+
+ 
+
+·Subordinated Promissory Note, dated April 30, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $45,107.20.
+
+ 
+
+·Subordinated Promissory Note, dated October 24, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $22,257.38.
+ 
+
+·Subordinated Promissory Note, dated January 31, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $35,181.00.
+ 
+
+·Subordinated Promissory Note, dated July 31, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $122,341.88.
+ 
+
+·Subordinated Promissory Note, dated February 29, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $47,244.75.
+ 
+
+·Subordinated Promissory Note, dated June 29, 2012, made by CDF2 Holdings, LLC in favor of NEC Display Solutions of America,
+Inc. in the principal amount of $40,323.85.
+ 
+Moving Image Technologies, LLC:
+ 
+
+·Subordinated Promissory Note, dated December 19, 2012, made by CDF2 Holdings, LLC in favor of Moving Image Technologies, LLC
+in the principal amount of $25,416.00.
+ 
+
+·Subordinated Promissory Note, dated April 31, 2012, made by CDF2 Holdings, LLC in favor of Moving Image Technolgoies, LLC in
+the principal amount of $87,990.00.
+ 
+
+·Subordinated Promissory Note, dated October 16, 2012, made by CDF2 Holdings, LLC in favor of Moving Image Technologies, LLC
+in the principal amount of $303,867.00.
+ 
+Ballantyne Strong, Inc.:
+ 
+
+·Subordinated Promissory Note, dated March 30, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the principal
+amount of $32,283.47.
+ 
+
+·Subordinated Promissory Note, dated December 19, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $9,978.01.
+ 
+
+·Subordinated Promissory Note, dated January 29, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $74,048.15.
+ 
+
+·Subordinated Promissory Note, dated July 31, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the principal
+amount of $152,068.12.
+ 
+
+ 
+ 
+
+ 
+
+·Subordinated Promissory Note, dated January 16, 2013, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $41,180.74.
+ 
+
+·Subordinated Promissory Note, dated October 18, 2011, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $2,603,800.
+ 
+
+·Subordinated Promissory Note, dated February 29, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $76,091.25.
+ 
+
+·Subordinated Promissory Note, dated January 31, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $68,601.00.
+ 
+
+·Subordinated Promissory Note, dated April 30, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the principal
+amount of $57,712.80.
+ 
+
+·Subordinated Promissory Note, dated October 24, 2012, made by CDF2 Holdings, LLC in favor of Ballantyne Strong, Inc. in the
+principal amount of $43,400.62.
+ 
+Barco, Inc.
+ 
+
+·Subordinated Promissory Note, dated January 16, 2013, made by CDF2 Holdings, LLC in favor of Barco, Inc. in the principal amount
+of $185,966.00.
+ 
+
+·Subordinated Promissory Note, dated April 30, 2012, made by CDF2 Holdings, LLC in favor of Barco, Inc. in the principal amount
+of $93,156.00.
+ 
+
+·Subordinated Promissory Note, dated February 29, 2012, made by CDF2 Holdings, LLC in favor of Barco, Inc. in the principal
+amount of $29,652.00.
+ 
+
+·Subordinated Promissory Note, dated April 31, 2012, made by CDF2 Holdings, LLC in favor of Barco, Inc. in the principal amount
+of $8,872.00.
+ 
+Woodhaven:
+ 
+
+·Promissory Note, dated as of July, 2009, made by Access Digital Cinema Phase 2, Corp. in favor of Woodhaven Cinemas LLC in
+the principal amount of $550,000.
+ 
+Christie Digital Systems:
+ 
+
+·Deferred Payment and Security Agreement, dated as of March 3, 2009, by and between Access Digital Cinema Phase 2, Corp. and
+Christie Digital Systems USA, Corp.
+ 
+Additonal Licenses
+ 
+4K Media Inc.
+ 
+
+a.Standard Form Video License, “Yu-Gi-Oh!”, dated as of August 23, 2012
+ 
+
+ 
+ 
+
+ 
+
+2.Artina Film Fund, LLC
+ 
+
+a.Short Form Distribution Agreement dated as of December 12, 2012, “The English Teacher”
+ 
+
+b.Distribution Agreement (with Tribeca Enterprises) for the film entitled “The English Teacher” dated as of December
+12, 2012
+ 
+
+3.Bejuba! Entertainment LLC
+ 
+
+a.Standard Form Video License dated as of August 6, 2013, “Stella and Sam” (not executed)
+ 
+
+b.Amendment anticipated for the expansion of rights for “Stella and Sam” to add international SVOD; 15% distribution
+fee for digital (in negotiations)
+ 
+
+4.Bl!nder Films Limited and Citadel Films Limited
+ 
+
+a.Distribution Agreement dated as of March 20, 2012, as amended, “Citadel”
+ 
+
+5.CCI Releasing, Inc.
+ 
+
+a.Standard Form Video License dated as of April 10, 2013, “Harry and His Bucket Full of Dinosaurs”
+ 
+
+6.Childs Play Limited (Malta)
+ 
+
+a.Distribution Agre
+
+15, 2012, as amended, “Arthur Newman”
+ 
+
+45.The Vivid Unknown, LLC
+ 
+
+a.License Agreement dated as of February 22, 2013, “Visitors”
+ 
+
+46.ZDF Enterprises GmbH
+ 
+
+a.Standard Form Distribution Agreement dated as of July 1, 2010, as amended, “H2O: Just Add Water”
+ 
+
+b.Standard Form Video License dated as of April 29, 2013, “Wolfblood” and “Wolfblood Files” (not executed)
+ 
+
+ 
+ 
+
+
+ 
+
+c.Standard Form Video License dated as of May 30, 2013,
+“Mako Mermaids” (not executed)
+
+ 
+47.   Zodiak
+Rights Limited
+ 
+
+a.Programme License Agreement dated as of September 24,
+2012, as amended, “Being Human”
+
+ 
+
+b.License Agreement dated as of December 27, 2012, “My
+Big Fat Gypsy Wedding”
+
+ 
+
+c.Standard Form Video License dated as of January 11, 2013,
+as amended, “Totally Spies”
+
+ 
+
+d.Standard Form Video License dated as of January 11, 2013,
+“The Secret World of Santa Claus”
+
+ 
+
+e.Programme License Agreement dated as of June 27, 2013,
+“Dani’s House” and “Let’s Play”
+
+ 
+
+ 
+ 
+
+ 
+Schedule 4.13 – Insurance
+
+
+ 
+
+
+Cinedigm Corp. 
+902 Broadway, 9th Floor 
+New York, NY 10010 
+Schedule of Insurance 2016 - 2018 
+USI Insurance Services LLC
+ 
+ 
+
+
+ 
+
+
+  
+Effective 
+Expiration 
+  
+Policy 
+  
+Retention /  
+Annual 
+
+Coverage 
+Date 
+Date 
+Carrier 
+Number 
+Limits 
+Deducitbles  
+Premium 
+
+  
+  
+  
+  
+  
+  
+   
+  
+
+Employed Lawyers Liability 
+  
+  
+  
+  
+  
+    
+   
+
+  
+7/12/2017 
+7/12/2018 
+Illinois National Ins. 
+14156966 
+$ 500,000 Aggregate Limit 
+$10,000  
+$5,002 
+
+  
+  
+  
+  
+  
+$ 500,000 Each Claim 
+    
+   
+
+Cyber E&O 
+  
+  
+  
+  
+  
+    
+   
+
+Limit of Liability 
+7/12/2017 
+7/12/2018 
+Illinois National Ins. 
+170914529 
+$5,000,000 Limit of Liability 
+    
+$56,843 
+
+Specialty Professional Liability 
+  
+  
+  
+  
+$5,000,000 SubLimit of Liability 
+$100,000  
+   
+
+Media Content Insurance 
+  
+  
+  
+  
+$5,000,000 SubLimit of Liability 
+$100,000  
+   
+
+Security & Privacy Liability 
+  
+  
+  
+  
+$5,000,000 SubLimit of Liability 
+$25,000  
+   
+
+Regulatory Aciton 
+  
+  
+  
+  
+$3,000,000 SubLimit of Liability 
+$25,000  
+   
+
+Net
+
+ 
+$1,000,000 Each Occurrence Limit 
+    
+   
+
+  
+  
+  
+  
+  
+$ 10,000 Medical Expenses Limit 
+    
+   
+
+  
+  
+  
+  
+  
+$300,000 Damage to Premises Rented to you 
+    
+   
+
+  
+  
+  
+  
+  
+  
+    
+   
+
+Employee Benefits
+    Liability 
+  
+  
+  
+  
+$2,000,000 Aggregate Limit 
+    
+   
+
+Claims made 
+  
+  
+  
+  
+$1,000,000 Each Claim 
+    
+   
+
+  
+  
+  
+  
+  
+  
+    
+   
+
+Commercial Auto 
+  
+  
+  
+  
+$1,000,000 General Liability 
+ $250
+                                         Comp/Coll  
+   
+
+Hired/Non-Owned Autos Only 
+  
+  
+  
+  
+Hired Car Physical Damage limit $50,000 
+ ACV  
+   
+
+Foreign Package 
+  
+  
+  
+  
+  
+    
+   
+
+General Liability 
+6/1/2017 
+6/1/2017 
+Hartford Int'l 
+16HIPZK7158 
+$2,000,000 General Aggregate Limit 
+    
+$2,000 
+
+  
+  
+  
+  
+  
+$2,000,000 Products/Completed Aggregate Limit 
+    
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Each Occurrence 
+    
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Premise Damage Limit 
+    
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Medical Expense Limit 
+    
+   
+
+ 
+
+ 
+ 
+
+
+ 
+
+
+Cinedigm Corp. 
+902 Broadway, 9th Floor 
+New York, NY 10010 
+Schedule of Insurance 2016 - 2018 
+USI Insurance Services LLC
+ 
+ 
+
+
+
+
+  
+Effective 
+Expiration 
+  
+Policy 
+  
+Retention /  
+Annual 
+
+Coverage 
+Date 
+Date 
+Carrier 
+Number 
+Limits 
+Deducitbles  
+Premium 
+
+  
+  
+  
+  
+  
+  
+   
+  
+
+Employee Benefits Liability 
+  
+  
+  
+  
+  
+    
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Each Claim 
+ $1,000
+                                         Per Claim  
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Annual Aggregate 
+    
+   
+
+  
+  
+  
+  
+  
+  
+    
+   
+
+Automobile 
+  
+  
+  
+  
+$1,000,000 CSL BI/PD Any One Accident 
+    
+   
+
+Hired & Non- Owned Autos 
+  
+  
+  
+  
+$50,000 CSL Any one Accident 
+    
+   
+
+  
+  
+  
+  
+  
+  
+    
+   
+
+Hired Autos Physical Damage 
+  
+  
+  
+  
+$50,000 Any One Policy Period 
+    
+   
+
+  
+  
+  
+  
+  
+$50,000 Each Accident 
+    
+   
+
+Medical Payments 
+  
+  
+  
+  
+$50,000 Each Accident 
+    
+   
+
+  
+  
+  
+  
+  
+  
+    
+   
+
+Employers Liability 
+  
+  
+  
+  
+  
+    
+   
+
+Bodily Injury by Accident 
+  
+  
+  
+ 
+
+mit 
+$10,000  
+$29,597 
+
+  
+  
+  
+  
+  
+$15,000,000 Each Occurrence Limit 
+    
+   
+
+Workers Compensation 
+  
+  
+  
+  
+  
+    
+   
+
+Total Payroll $12,473,250 
+6/1/2017 
+6/1/2018 
+Hartford Group 
+16WEKZ0659 
+Statutory 
+    
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Each Accident 
+    
+$77,545 
+
+  
+  
+  
+  
+  
+$1,000,000 Disease per Employee 
+    
+   
+
+  
+  
+  
+  
+  
+$1,000,000 Disease Policy Limit 
+    
+   
+
+Crime 
+  
+  
+  
+  
+  
+    
+   
+
+  
+2/18/2017 
+2/18/2018 
+National Union Fire 
+12295123 
+$2,000,000 Employee Theft 
+$20,000  
+$10,172 
+
+  
+  
+  
+  
+  
+$2,000,000 Forgery & Alterations 
+$20,000  
+   
+
+  
+  
+  
+  
+  
+$2,000,000 Inside Money & Securities 
+$20,000  
+   
+
+  
+  
+  
+  
+  
+$2,000,000 Inside Robbery or burglary 
+$20,000  
+   
+
+  
+  
+  
+  
+  
+$2,000,000 Outside Premises 
+$20,000  
+   
+
+  
+  
+  
+  
+  
+$2,000,000 Computer Fraud 
+$20,000  
+   
+
+  
+  
+  
+  
+  
+$2,000,000 Funds Transfer Fraud 
+$20,000  
+   
+
+  
+  
+  
+  
+  
+$2,000,000 Money Orders and Counterfeit Paper 
+$0  
+   
+
+ 
+
+ 
+ 
+
+
+ 
+
+
+Cinedigm Corp. 
+902 Broadway, 9th Floor 
+New York, NY 10010 
+Schedule of Insurance 2016 - 2018 
+USI Insurance Services LLC
+ 
+ 
+
+
+
+
+
+  
+Effective 
+Expiration 
+  
+Policy 
+  
+Retention /  
+Annual 
+
+Coverage 
+Date 
+Date 
+Carrier 
+Number 
+Limits 
+Deducitbles  
+Premium 
+
+  
+  
+  
+  
+  
+  
+   
+  
+
+Employment Practices Liability 
+  
+  
+  
+  
+  
+    
+   
+
+  
+1/16/2017 
+1/16/2018 
+Admiral Insurance Co 
+1526276 
+$5,000,000 Aggregate Limit 
+$75,000  
+$31,399 
+
+Directors & Officers 
+  
+  
+  
+  
+  
+    
+   
+
+1st $5mm 
+11/17/2017 
+11/17/2018 
+Argonaut Insurance 
+ML7601163 
+$5,000,000 Liability Limit 
+$150,000  
+$78,750 
+
+  
+  
+  
+  
+  
+  
+ other
+                                                                                than a Secuirites Claim  
+   
+
+Excess Directors & Officers 
+  
+  
+  
+  
+  
+    
+   
+
+$5mm x $5mm 
+11/17/2017 
+11/17/2018 
+Allied World Nat. 
+3050858 
+$5,000,000 Liability Limit 
+    
+$46,050 
+
+Excess Directors & Officers 
+  
+  
+  
+  
+  
+    
+   
+
+$5mm x $10mm 
+11/17/2017 
+11/17/2018 
+XL Specialty 
+ELU147405 
+$5,000,000 Liability Limit 
+    
+$40,425 
+
+Excess Directors & Officers 
+  
+  
+  
+  
+  
+    
+   
+
+$5mm x $15mm 
+11/17/2017 
+11/17/2018 
+Berkley Insurance 
+18017041 
+$5,000,000 Liability Limit 
+    
+$37,076 
+
+Excess Directors & Officers 
+  
+  
+  
+  
+  
+    
+   
+
+$5mm x $20mm 
+11/17/2017 
+11/17/2018 
+Westchester Fire Ins. 
+G24337807 
+$5,000,000 Liability Limit 
+    
+$32,750 
+
+ 
+
+*The policy descriptions and details contained herein are in the
+nature of summaries and should be considered neither as interpretations of insuring agreements nor as a full detail presentation.
+For full details, terms, conditions, exclusions, and insuring agreements,
+reference should be made to the specific policies involved. USI Northeast, Inc does not profess or guarantee the adequacy of the
+amount(s) of insurance contained hereon.
+ 
+
+ 
+ 
+
+ 
+Schedule 5.1 – Existing Indebtedness
+ 
+Amounts outstanding under the Term Loan Agreement dated
+as February 28, 2013 among Cinedigm DC Holdings, LLC, the guarantors party thereto, the lenders party thereto, Prospect Capital
+Corporation and the related documents.
+ 
+Amounts outstanding under the Credit Agreement dated as
+of October 18, 2011 (as amended from time to time) among Cinedigm Digital Funding 2, LLC, the lenders from time to time party thereto
+and Societe Generale, New York Branch, as Administrative Agent and related documents.
+ 
+Amounts outstanding under the First Lien Credit Agreement;
+ 
+Amounts outstanding under the Second Lien Loan Agreement;
+ 
+Amounts outstanding under the Mezzanine Financing;
+ 
+Capital Lease dated as of June 13, 2013 between Cisco
+Systems Capital Corporation and Cinedigm Digital Cinema Corp. in the amount financed of $86,182;
+ 
+Capital Lease received for acceptance as of September
+30, 2013 between Cisco Systems Capital Corporation and Cinedigm Digital Cinema Corp. in the amount financed of $1,393,291;
+ 
+Capital Lease received for acceptance as of September
+20, 2013 between Cisco Systems Capital Corporation and Cinedigm Digital Cinema Corp. in the amount financed of $408,416; and
+ 
+Limited Recourse Guaranty Agreement, dated as February
+28, 2013 between the Borrower and Prospect Capital Corporation.
+ 
+All other Indebtedness described on Schedule 3.18.
+ 
+
+ 
+ 
+
+ 
+Schedule 5.2
+ 
+Reference is made to the liens described on Schedule 3.18.
+
+ 
+ 
+
+ 
+Schedule 5.3 Borrower Investments
+ 
+The Borrower owns 85% of the membership interest of Con TV, LLC.
+ 
+Limited Recourse Guaranty Agreement, dated as February 28, 2013
+between the Borrower and Prospect Capital Corporation.
+ 
+Exhibit A to Loan Agreement – Form of
+Assignment
+ 
+
+ 
+ 
+
+ 
+Exhibit A – Form of Assignment
+ 
+ASSIGNMENT AGREEMENT
+ 
+Dated: ______ __, 20__
+ 
+Reference is made to the
+Term Loan Agreement, dated as of December 29, 2017 (as the same may be amended, supplemented or otherwise modified, renewed or
+replaced from time to time, the “Loan Agreement”), between Cinedigm Corp. (the “Borrower”)
+and Bison Entertainment and Media Group, as Lender. Capitalized terms used herein and not otherwise defined shall have the meanings
+given to such terms in the Loan Agreement.
+ 
+Bison Entertainment and
+Media Group (the “Assignor”) and [_____________] (the “Assignee”) agree as follows:
+ 
+The Assignor acknowledges that upon receipt
+from Assignee of the sum of $[____________], the Assignor hereby irrevocably sells and assigns to the Assignee without recourse
+to the Assignor, and the Assignee hereby irrevocably purchases and assumes from the Assignor without recourse to the Assignor,
+all of the Assignor’s interests, rights and obligations under the Loan Agreement, effective as of the Effective Date (such
+term being used herein as hereinafter defined), as follows; provided, however, it is expressly understood and agreed
+that (x) the Assignor is not assigning to the Assignee and the Assignor shall retain any and all amounts paid to the Assignor prior
+to the Effective Date and (y) both Assignor and Assignee shall be entitled to the
+
+r the other Loan Documents and shall be bound by the provisions thereof and (ii)
+the Assignor shall, to the extent provided in this Assignment Agreement, relinquish its rights and be released from its obligations
+under the Loan Documents (and if this Assignment Agreement covers all or the remaining portion of the Assignor’s rights and
+obligations under the Loan Documents, the Assignor shall cease to be a party thereto).
+ 
+THIS ASSIGNMENT AGREEMENT
+SHALL BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAW OF THE STATE OF NEW YORK.
+ 
+This Assignment Agreement may be executed in
+counterparts, each of which shall be deemed to constitute an original, but all of which when taken together shall constitute one
+and the same instrument.
+ 
+[Remainder of page left intentionally blank]
+ 
+Exhibit A to Loan Agreement – Form of
+Assignment
+ 
+
+ 
+ 
+
+ 
+IN WITNESS WHEREOF, the
+parties hereto have caused this Assignment Agreement to be duly executed by their respective duly authorized officers.
+ 
+
+
+ 
+Bison Entertainment and Media Group
+
+ 
+ 
+
+ 
+By:
+ 
+
+ 
+ 
+Name:
+
+ 
+ 
+Title:
+
+ 
+ 
+
+ 
+[ASSIGNEE]
+
+ 
+ 
+
+ 
+By:
+ 
+
+ 
+ 
+Name:
+
+ 
+ 
+Title:
+
+ 
+
+
+CINEDIGM CORP., as Borrower
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+By:
+ 
+ 
+ 
+
+ 
+Name:
+ 
+ 
+
+ 
+Title:
+ 
+ 
+
+ 
+Exhibit A to Loan Agreement – Form of
+Assignment
+ 
+
+ 
+ 
+
+ 
+Exhibit B– Form of Note
+ 
+PROMISSORY NOTE
+ 
+
+
+Lender: Bison Entertainment and Media Group
+New York, New York
+
+Principal Amount: US $10,000,000.00
+December 29, 2017
+
+ 
+FOR VALUE RECEIVED,
+the undersigned, Cinedigm Corp. (the “Borrower”), hereby promises to pay to the each of Bison Entertainment
+and Media Group (the “Lender”) the Principal Amount set forth above, or, if less, the aggregate unpaid principal
+amount of all Loan (as defined in the Loan Agreement referred to below) of the Lender to the Borrower, payable at such times and
+in such amounts as are specified in the Loan Agreement.
+ 
+The Borrower promises
+to pay interest on the unpaid principal amount of the Loan from the date made until such principal amount is paid in full, payable
+at such times and at the interest rate set forth in Section 2.7 of the Loan Agreement. Demand, diligence, presentment, protest
+and notice of non-payment and protest are hereby waived by the Borrower.
+ 
+Both principal
+and interest are payable in Dollars to the Lender to such account maintained by Lender in the United States of America or by such
+other means to such other address in the United States of America as the Lender shall have notified the Borrower in writing
+
+able usury laws. If it is hereafter determined by a court of competent jurisdiction
+that the interest payable hereunder is in excess of the amount which the Lender may legally collect under the then applicable usury
+laws, such amount which would be excessive interest shall be applied to the payment of the unpaid principal balance due hereunder
+and not to the payment of interest.
+ 
+Every provision
+of this Note is intended to be severable. If any term or provision hereof is declared by a court of competent jurisdiction to be
+illegal or invalid, such illegal or invalid term or provision shall not affect the balance of the terms and provisions hereof,
+which terms and provisions shall remain binding and enforceable.
+ 
+[Remainder of page left intentionally blank]
+ 
+Exhibit B to Loan Agreement – Form of
+Note
+ 
+
+ 
+ 
+
+ 
+IN WITNESS WHEREOF, the Borrower has
+caused this Note to be executed and delivered by its duly authorized officer as of the day and year and at the place set forth
+above.
+ 
+
+
+ 
+CINEDIGM CORP.,
+
+ 
+as Borrower
+
+ 
+ 
+ 
+
+ 
+By:
+ 
+
+ 
+Name:
+ 
+
+ 
+Title:
+ 
+
+ 
+Exhibit B to Loan Agreement – Form of
+Note
+ 
+
+ 
+ 
+
+ 
+Exhibit C
+ 
+FORM OF WARRANT
+ 
+Exhibit C to Loan Agreement – Form of
+Warrant
+ 
+
+ 
+ 
+
+ 
+Issue Date: December 29, 2017
+ 
+THE
+SECURITY REPRESENTED HEREBY OR THE SECURITIES ISSUABLE UPON THE EXERCISE OF SUCH SECURITY HAVE NOT BEEN REGISTERED WITH THE SECURITIES
+AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES
+ACT OF 1933, AS AMENDED, AND, ACCORDINGLY, MAY NOT BE TRANSFERRED UNLESS (I) SUCH SECURITIES HAVE BEEN REGISTERED FOR SALE PURSUANT
+TO THE SECURITIES ACT OF 1933, AS AMENDED, (II) SUCH SECURITIES MAY BE SOLD PURSUANT TO RULE 144 PURSUANT TO THE SECURITIES ACT
+OF 1933, AS AMENDED, OR (III) THE COMPANY HAS RECEIVED AN OPINION OF COUNSEL REASONABLY SATISFACTORY TO IT THAT SUCH TRANSFER MAY
+LAWFULLY BE MADE WITHOUT REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED.
+ 
+COMMON
+STOCK PURCHASE WARRANT
+ 
+To Purchase 1,400,000 Shares of Class A Common
+Stock of
+ 
+cinedigm
+corp.
+ 
+THIS COMMON STOCK PURCHASE
+WARRANT (the “Warrant”) certifies that, for value received, Bison Entertainment and Media Group (the “Holder”),
+is entitled, upon the terms and subject to the limitations on exercise and the conditions hereinafter set forth, at any time on
+or after the date hereof (the “Initial Exercise Date”) and on or prior to the close of business on December
+29, 2022 (the “Termination Date”) but not thereafter, to subscribe for and purchase from Cinedigm Corp., a Delaware
+corporation (the “Company”), up to 1,400,000 shares (the “Warrant Shares”) of the Company’s
+Class A Common Stock, par value $0.001 per share, of the Company (the “Common Stock”). The purchase price of
+one share of Common Stock under this Warrant shall be equal to the Exercise Price, as defined in Section 2(b).
+ 
+Section 1.               Definitions.
+As used in this Warrant, the following terms shall have the meanings set forth below:
+ 
+(a)           “Board”
+means the Board of Directors of the Company.
+ 
+(b)           “Fair
+Market Value” means the value determined (x) by the closing price of the Common Stock on the Nasdaq Global Market, or
+Trading Market on which the Common Stock is then listed for trading or quotation on the trading day preceding the date of the Notice
+of Exercise; (y) if the determination under (x) is unavailable, mutually by the Board and the Holder; or (z) if the determination
+under (y) is unavailable, by a nationally recognized investment bank, appraisal or accounting firm (whose fees and expenses will
+be paid by the Holder) selected by mutual agreement between the Board and the Holder.
+ 
+
+ 1 
+ 
+
+ 
+(c)          “Person”
+means an individual or corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability
+company, joint stock company, government (or an agency or subdivision thereof) or other entity of any kind.
+ 
+(d)          “Trading
+Day” means a day on which the Common Stock is traded on a Trading
+
+ of all Holders from time to time of this Warrant and shall be enforceable by
+any such Holder.
+ 
+(m)         Amendment.
+This Warrant may be modified or amended or the provisions hereof waived with the written consent of the Company and the Holder.
+ 
+(n)          Severability.
+Wherever possible, each provision of this Warrant shall be interpreted in such manner as to be effective and valid under applicable
+law, but if any provision of this Warrant shall be prohibited by or invalid under applicable law, such provision shall be ineffective
+to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions
+of this Warrant.
+ 
+(o)          Headings.
+The headings used in this Warrant are for the convenience of reference only and shall not, for any purpose, be deemed a part of
+this Warrant.
+ 
+[Remainder of Page Intentionally Left Blank]
+ 
+
+ 9 
+ 
+
+ 
+IN WITNESS WHEREOF, the
+Company has caused this Warrant to be duly executed.
+ 
+
+
+ 
+CINEDIGM CORP.
+
+ 
+ 
+
+ 
+By: 
+ 
+
+ 
+ 
+Name:
+ 
+
+ 
+ 
+Title:
+ 
+
+ 
+
+ 
+ 
+
+ 
+NOTICE
+OF EXERCISE
+ 
+
+TO:Cinedigm Corp.
+
+ 
+(1)         The
+undersigned hereby elects to purchase ________ Warrant Shares of the Company pursuant to the terms of the attached Warrant, and
+tenders herewith payment of the Exercise Price in full, together with all applicable transfer taxes, if any.
+ 
+(2)         Payment
+shall take the form of lawful money of the United States by wire transfer or cashier’s check drawn on a United States bank.
+ 
+(3)         Please
+issue a certificate or certificates representing said Warrant Shares in the name of the undersigned or in such other name as is
+specified below:
+ 
+
+
+ 
+ 
+ 
+
+ 
+The Warrant Shares shall
+be delivered to the following:
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+[SIGNATURE OF HOLDER]
+ 
+Name of Holder: __________________________________________________________________________________
+Signature of Authorized Signatory of Holder: ____________________________________________________________
+Name of Authorized Signatory: ______________________________________________________________
+
