@@ -6,35 +6,53 @@ input_folder = "./../data/results"
 output_folder = "./../data/grouped_results"
 os.makedirs(output_folder, exist_ok=True)
 
-files_by_model = defaultdict(lambda: {"easy": None, "medium": [], "hard": None})
+files_by_model = defaultdict(
+    lambda: {"easy": [], "medium": [], "hard": []})
 
 for filename in os.listdir(input_folder):
     if filename.endswith(".csv"):
-        parts = filename.split("_", 1)
-        level = int(parts[0][1])
-        model_name = parts[1].replace(".csv", "")
+        hops = int(filename[4])
+        model_name = "gemini" if "gemini" in filename else "deepseek"
         full_path = os.path.join(input_folder, filename)
 
-        if level == 1:
-            files_by_model[model_name]["easy"] = full_path
-        elif 2 <= level <= 4:
-            files_by_model[model_name]["medium"].append(full_path)
-        elif level == 5:
-            files_by_model[model_name]["hard"] = full_path
+        files_by_model[model_name]["easy" if hops == 1 else (
+            "medium" if hops == 2 else "hard")].append(full_path)
 
 os.makedirs(output_folder, exist_ok=True)
 
+
+def change_word_order(pred, true):
+    print(pred, true)
+    pred = sorted([word.lower().strip() for word in pred.split(',')])
+    true = sorted([word.lower().strip() for word in true.split(',')])
+    print(pred, true)
+    result_pred = []
+    result_true = []
+    for word in pred:
+        if word in true:
+            result_pred.append(word)
+            result_true.append(word)
+    print(result_pred, result_true)
+    for word in pred:
+        if word not in result_pred:
+            result_pred.append(word)
+    for word in true:
+        if word not in result_true:
+            result_true.append(word)
+    print(result_pred, result_true)
+    print()
+    return ','.join(result_pred), ','.join(result_true)
+
+
 for model, parts in files_by_model.items():
-    if parts["easy"]:
-        df = pd.read_csv(parts["easy"])
-        df.to_csv(os.path.join(output_folder, f"easy_{model}.csv"), index=False)
-
-    if parts["medium"]:
-        dfs = [pd.read_csv(f) for f in parts["medium"]]
+    for difficulty in ["easy", "medium", "hard"]:
+        dfs = [pd.read_csv(f) for f in parts[difficulty]]
         df_combined = pd.concat(dfs, ignore_index=True)
-        df_combined.to_csv(os.path.join(output_folder, f"medium_{model}.csv"), index=False)
-
-    if parts["hard"]:
-        df = pd.read_csv(parts["hard"])
-        df.to_csv(os.path.join(output_folder, f"hard_{model}.csv"), index=False)
-
+        print(df_combined.columns)
+        df_combined[['llm_response', 'answer']] = df_combined.apply(
+            lambda row: pd.Series(change_word_order(
+                row['llm_response'], row['answer'])),
+            axis=1
+        )
+        df_combined.to_csv(os.path.join(
+            output_folder, f"{difficulty}_{model}.csv"), index=False)

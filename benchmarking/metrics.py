@@ -25,27 +25,27 @@ def preprocess_text(text):
     return " ".join(text.split())  # Remove extra spaces
 
 
-def extract_model_info(filename):
-    """Extract level, model name and dimensions from filename."""
-    # Example filename: L1_proprietary_gemini-1.5-flash_0_1_0.csv
-    pattern = r'(L\d+)_(.+)_(\d+)_(\d+)_(\d+)\.csv'
-    match = re.match(pattern, os.path.basename(filename))
-    if match:
-        level, model_name, multi_answer, num_hops, set_ops = match.groups()
-        return {
-            'level': level,
-            'model_name': model_name,
-            'multi_answer': bool(int(multi_answer)),
-            'num_hops': int(num_hops),
-            'set_ops': int(set_ops)
-        }
-    return None
+# def extract_model_info(filename):
+#     """Extract level, model name and dimensions from filename."""
+#     # Example filename: L1_proprietary_gemini-1.5-flash_0_1_0.csv
+#     pattern = r'(L\d+)_(.+)_(\d+)_(\d+)_(\d+)\.csv'
+#     match = re.match(pattern, os.path.basename(filename))
+#     if match:
+#         level, model_name, multi_answer, num_hops, set_ops = match.groups()
+#         return {
+#             'level': level,
+#             'model_name': model_name,
+#             'multi_answer': bool(int(multi_answer)),
+#             'num_hops': int(num_hops),
+#             'set_ops': int(set_ops)
+#         }
+#     return None
 
 
-def get_output_filename(input_filename):
-    """Generate output filename by appending _results.csv to the base name."""
-    base_name = os.path.splitext(os.path.basename(input_filename))[0]
-    return f"{base_name}_results.csv"
+# def get_output_filename(input_filename):
+#     """Generate output filename by appending _results.csv to the base name."""
+#     base_name = os.path.splitext(os.path.basename(input_filename))[0]
+#     return f"{base_name}_results.csv"
 
 
 class BenchmarkEvaluator:
@@ -99,7 +99,7 @@ Model's response:
 {pred}
 
 How well does the model response match the ground truth? Score from 1 to 5."""
-        
+
         unfinished = True
         while unfinished:
             try:
@@ -113,7 +113,8 @@ How well does the model response match the ground truth? Score from 1 to 5."""
                         temperature=0,
                     )
                     try:
-                        score = int(response.choices[0].message.content.strip())
+                        score = int(
+                            response.choices[0].message.content.strip())
                     except:
                         score = None
                 elif type(client) is genai.Client:
