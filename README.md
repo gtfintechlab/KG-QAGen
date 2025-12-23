@@ -121,10 +121,12 @@ conda activate kgqagen
 If you use KG‑QAGen in your work, please cite:
 
 ```bibtex
-@inproceedings{kgqagen2025,
-  title     = {{KG‑QAGen}: A Knowledge‑Graph‑Based Framework for Systematic Question Generation and Long‑Context LLM Evaluation},
-  author    = {Tatarinov, Nikita and Kannan, Vidhyakshaya and Srinivasa, Haricharana and Raj, Arnav and Anand, Harpreet and Singh, Varun and Luthra, Aditya and Lade, Ravij and Shah, Agam and Chava, Sudheer},
-  booktitle = {NeurIPS Dataset and Benchmark},
-  year      = {2025},
-  url       = {https://github.com/gtfintechlab/KG-QAGen}
+@misc{tatarinov2025kgqagenknowledgegraphbasedframeworksystematic,
+      title={KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation}, 
+      author={Nikita Tatarinov and Vidhyakshaya Kannan and Haricharana Srinivasa and Arnav Raj and Harpreet Singh Anand and Varun Singh and Aditya Luthra and Ravij Lade and Agam Shah and Sudheer Chava},
+      year={2025},
+      eprint={2505.12495},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.12495}, 
 }
