@@ -1,3 +1,8 @@
+"""
+Vector store builder for RAG (Retrieval-Augmented Generation) testing.
+Creates a FAISS vector database from HTML documents for efficient retrieval.
+"""
+
 import json
 import os
 
@@ -8,18 +13,22 @@ from langchain.docstore.document import Document
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 
-from main import clean_html
+from document_processor import clean_html
 
 
 def build_vector_store():
+    """
+    Build a FAISS vector store from all HTML documents in the configured path.
+    Documents are chunked and embedded for later retrieval.
+    """
     docs = []
     for filename in os.listdir(config.HTML_PATH):
-    
+
         if filename.endswith(".html"):
             path = os.path.join(config.HTML_PATH, filename)
             with open(path, 'r', encoding='utf-8') as file:
                 html = file.read()
-            
+
             doc_id = str(filename)[:-5]
             text = clean_html(html)
             chunks = [text[i:i + config.RAG_CHUNK_SIZE]
@@ -31,6 +40,7 @@ def build_vector_store():
     embeddings = HuggingFaceEmbeddings(model_name=config.RAG_MODEL)
     db = FAISS.from_documents(docs, embedding=embeddings)
     db.save_local(config.VECTOR_DB_DIR)
+    print(f"Vector store saved to {config.VECTOR_DB_DIR}")
 
 
 if __name__ == "__main__":

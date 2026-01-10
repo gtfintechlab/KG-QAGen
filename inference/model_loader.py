@@ -1,13 +1,11 @@
-import os
 import getpass
-import requests
 import openai
+import os
+import requests
 
 from langchain_community.llms import OpenLLM
-
-from langchain_openai import ChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
-
+from langchain_openai import ChatOpenAI
 from vllm import LLM, SamplingParams
 from vllm.sampling_params import GuidedDecodingParams
 
@@ -54,7 +52,6 @@ class ChatTogether:
                 f"[TogetherAI] Error {resp.status_code}: {resp.text}")
 
         data = resp.json()
-        # The structure is: data["choices"][0]["message"]["content"] for the text
         content = data.get("choices", [{}])[0].get(
             "message", {}).get("content", "")
 
@@ -148,9 +145,8 @@ class BaseModel:
 
     def load(self):
         """Instantiate the LLM based on the specified provider."""
-        
+
         if self.llm_provider == "OpenAI":
-            # For official OpenAI
             if "OPENAI_API_KEY" not in os.environ:
                 os.environ["OPENAI_API_KEY"] = getpass.getpass(
                     "Enter OpenAI API key: ")
@@ -163,7 +159,6 @@ class BaseModel:
             )
 
         elif self.llm_provider == "GOOGLE":
-            # For PaLM/Google Generative AI
             if "GOOGLE_API_KEY" not in os.environ:
                 os.environ["GOOGLE_API_KEY"] = getpass.getpass(
                     "Enter your Google AI API key: ")
@@ -175,7 +170,6 @@ class BaseModel:
             )
 
         elif self.llm_provider == "TOGETHER":
-            # For TogetherAI (open-source models)
             if "TOGETHER_API_KEY" not in os.environ:
                 os.environ["TOGETHER_API_KEY"] = getpass.getpass(
                     "Enter Together API key: ")
